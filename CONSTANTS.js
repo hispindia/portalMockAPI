@@ -1,11 +1,11 @@
 
 
 
-exports.DHIS_URL_BASE = "http://112.133.207.124/nieodk/";
+exports.DHIS_URL_BASE = "http:///";
 
 
-exports.username = "admin";
-exports.password = "Hisp@1234";
+exports.username = "";
+exports.password = "";
 exports.auth = "Basic " + new Buffer(exports.username + ":" + exports.password).toString("base64");
 
 
