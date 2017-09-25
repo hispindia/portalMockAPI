@@ -1,6 +1,4 @@
 
-
-
 exports.DHIS_URL_BASE = "http:///";
 
 

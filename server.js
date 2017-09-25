@@ -1,6 +1,4 @@
 var constant=require("./CONSTANTS");
-var CronJob = require('cron').CronJob;
-var moment = require("moment");
 var express = require('express');
 var forwarder = require('./forwarder');
 forwarder = new forwarder();
@@ -40,10 +38,10 @@ global.__logger = new (winston.Logger)({
             colorize: true,
             timestamp: true
         }),
-        new (winston.transports.File)({
-            filename: './logs/server.log',
-            timestamp: true
-        })
+         new (winston.transports.File)({
+             filename: './logs/server.log',
+             timestamp: true
+         })
     ]
 });
 /**
@@ -58,7 +56,7 @@ var server = app.listen(8000, function () {
 })
 
 
-// Open API for sending email
+// Open API 
 app.get('/portalAPI/*', function(req, res){
     var name = req.query.name
     var tei =req.query.tei
@@ -74,23 +72,6 @@ app.get('/portalAPI/*', function(req, res){
     
 })
 
-
-// Open API for sending email for daily report
-app.get('/sendDailyReports', function(req, res){
-    var date = req.query.date
-
-    if (!date){
-        res.writeHead(200, {'Content-Type': 'text/html'});
-        res.end('No date passed(YYYY-MM-DD)');
-        return;
-    }
-    var reportSender = require('./sendReports');            
-    reportSender.init(moment(date, "MM-DD-YYYY").format("YYYY-MM-DD"));
-
-    res.writeHead(200, {'Content-Type': 'text/html'});
-    res.end('ok');
-    
-})
 
 
 __logger.info("Starting service");

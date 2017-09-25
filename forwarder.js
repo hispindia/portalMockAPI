@@ -15,10 +15,12 @@ function forwarder(){
             callback(JSON.stringify(msg));
             return;
         }
-
+        __logger.info("Got request" + req.originalUrl)
         ajax.getReq(constant.DHIS_URL_BASE+"/api/"+params,constant.auth,function(error,response,body){
+            __logger.info("Got response" + error)
+            
             if (error){
-                __logger.error("Error");
+                __logger.error("Error" + response);
                 callback(null)
                 return;
             }
