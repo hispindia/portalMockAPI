@@ -11,15 +11,16 @@
     "type": "git",
     "url": ""
   },
-  "author": "harsh atal",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/hispindia/portalMockAPI/issues"
   },
   "homepage": "https://github.com/hispindia/portalMockAPI#readme",
-  "dependencies": {  
+  "dependencies": {
+    "express": "4.14.0",
     "request": "2.72.0",
-    "winston": "2.2.0",
-    "express": "4.14.0"
+    "ssl-root-cas": "^1.2.4",
+    "winston": "2.2.0"
   }
 }

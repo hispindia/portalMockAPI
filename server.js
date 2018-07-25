@@ -1,6 +1,8 @@
 var constant=require("./CONSTANTS");
 var express = require('express');
 var forwarder = require('./forwarder');
+var rootCas = require('ssl-root-cas/latest').create();
+require('https').globalAgent.options.ca = rootCas;
 forwarder = new forwarder();
 
 // Initialise
@@ -39,7 +41,8 @@ global.__logger = new (winston.Logger)({
             timestamp: true
         }),
          new (winston.transports.File)({
-             filename: './logs/server.log',
+             
+filename: './logs/server.log',
              timestamp: true
          })
     ]
@@ -51,7 +54,7 @@ var server = app.listen(8000, function () {
     var host = server.address().address
     var port = server.address().port
 
-    __logger.info("Server listening at http://%s:%s", host, port);
+    __logger.info("Server listening at https://%s:%s", host, port);
     
 })
 
