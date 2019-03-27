@@ -1,8 +1,10 @@
 var constant=require("./CONSTANTS");
 var express = require('express');
 var forwarder = require('./forwarder');
+var hausala = require('./hausala');
+
 var rootCas = require('ssl-root-cas/latest').create();
-require('https').globalAgent.options.ca = rootCas;
+//require('https').globalAgent.options.ca = rootCas;
 forwarder = new forwarder();
 
 // Initialise
@@ -75,7 +77,7 @@ app.get('/portalAPI/*', function(req, res){
     
 })
 
-
+new hausala();
 
 __logger.info("Starting service");
 
