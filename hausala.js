@@ -35,8 +35,82 @@ function hausala(){
     }
 
     function transferData(ousMap,desMap){
-        debugger
+        
+        const startOfMonth = moment().startOf('month').format('YYYY-MM-DD');
+        const endOfMonth   = moment().endOf('month').format('YYYY-MM-DD');
+        
+        for (var key in constant.hausala_urls){
+            
+            ajax.getReqWithoutAuth(constant.hausala_urls[key]+"?startDate="+startOfMonth+"&endDate="+endOfMonth,function(error,response,body){
+                if (error){
+                    __logger.error(error);
+                    return;
+                }
+
+                hausalaImporter(JSON.parse(body),startOfMonth,endOfMonth);
+                
+                
+            });
+            
+        }
+
+        function hausalaImporter(response){
+
+            var dvs = {dataValues:[]};
+            
+            for(var ouID in response.data.data){
+                var record = response.data.data[ouID];
+
+                if (!ousMap[ouID]){
+                    __logger.info("[OUNOTMAP-"+ouID+"]Org Unit Not Mapped");
+                    continue;
+                }
+                var ouUID = ousMap[ouID].id;
+                
+                for (var deID in record){
+                    if (!desMap[deID]){
+                        continue;
+                    }
+                    var deUID = desMap[deID].id;
+                    var dataValue = {};
+                    dataValue.period = getPeriod(startOfMonth,endOfMonth,"Monthly");
+	            dataValue.orgUnit = ouUID;
+	            dataValue.value = record[deID];
+	            dataValue.dataElement = deUID;
+	            //dataValue.categoryOptionCombo=decocMap[decoc].newcoc;
+                    dvs.dataValues.push(dataValue);
+                }
+            }
+
+            if (dvs.length == 0){
+                return;
+            }
+            
+            ajax.postReq(constant.DHIS_URL_BASE+"/api/dataValueSets",dvs,constant.auth,function(error,response,body){
+                debugger
+            })
+            
+            debugger
+
+            function getPeriod(startdate,enddate,ptype){
+	        var pe = null;
+	        var refDate = moment(startdate);
+	        
+	        switch(ptype){
+	        case 'Monthly' : pe = refDate.format("YYYY") + "" + refDate.format("MM")
+		    break;
+	        case 'Yearly' : pe =  refDate.format("YYYY");
+		    break;	
+	        }
+	    
+	        return pe;
+	    }
+            
+        }
     }
+    
+    
+    
     function getDEs(callback){
         ajax.getReq(constant.DHIS_URL_BASE+"/api/dataElements?fields=id,name,code&paging=false",constant.auth,function(error,response,body){
             __logger.info("Got response" + error)

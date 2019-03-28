@@ -6,8 +6,7 @@ var ajax=require("./ajax");
 function forwarder(){    
     
     this.pass = function(req,callback){
-        
-        
+                
         var params = req.originalUrl.substring(11,req.originalUrl.length);
 
         if (!filter(params)){
