@@ -11,14 +11,24 @@ function hausala(){
     function init(){
         getOUs(function(ous){
             getDEs(function(des){
-
+debugger
                 var ousMap = ous.organisationUnits.reduce(function(map,obj){
-                    if(obj.code){
-                        map[obj.code] = obj;
+                    
+                    if(obj.attributeValues.length > 0){
+                        var hausalaCode = obj.attributeValues.reduce(function(hauslaCode,attrval){
+                            if (attrval.attribute.code == "hausalaOUID"){
+                                return attrval.value;
+                            }
+                            return hauslaCode; 
+                        },false);
+                        
+                        if(hausalaCode){
+                            map[hausalaCode] = obj;
+                        }
                     }
                     return map;
                 },[]);
-
+                
                 
                 var desMap = des.dataElements.reduce(function(map,obj){
                     if(obj.code){
@@ -41,7 +51,7 @@ function hausala(){
         
         for (var key in constant.hausala_urls){
             
-            ajax.getReqWithoutAuth(constant.hausala_urls[key]+"?startDate="+startOfMonth+"&endDate="+endOfMonth,function(error,response,body){
+   -         ajax.postReqWithoutAuth(constant.hausala_urls[key]+"?from="+startOfMonth+"&to="+endOfMonth,function(error,response,body){
                 if (error){
                     __logger.error(error);
                     return;
@@ -112,7 +122,7 @@ function hausala(){
     
     
     function getDEs(callback){
-        ajax.getReq(constant.DHIS_URL_BASE+"/api/dataElements?fields=id,name,code&paging=false",constant.auth,function(error,response,body){
+        ajax.getReq(constant.DHIS_URL_BASE+"/api/dataElements?fields=id,name,code&paging=false&filter=dataElementGroups.code:eq:hausala_des",constant.auth,function(error,response,body){
             __logger.info("Got response" + error)
             
             if (error){
@@ -128,7 +138,7 @@ function hausala(){
     }
     
     function getOUs(callback){
-        ajax.getReq(constant.DHIS_URL_BASE+"/api/organisationUnits?fields=id,name,code&paging=false",constant.auth,function(error,response,body){
+        ajax.getReq(constant.DHIS_URL_BASE+"/api/organisationUnits?fields=id,name,attributeValues[value,attribute[id,name,code]]&paging=false",constant.auth,function(error,response,body){
             __logger.info("Got response" + error)
             
             if (error){

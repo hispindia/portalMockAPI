@@ -56,6 +56,14 @@ exports.getReqWithoutAuth = function(url,callback){
 
 }
 
+exports.postReqWithoutAuth = function(url,callback){
+    request({
+        url: url,
+        method: "POST"
+    }, function (error, response, body){
+        callback(error,response,body);
+    });
+}
 
 
 
