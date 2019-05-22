@@ -3,6 +3,8 @@ module.exports =  hausala;
 var constant=require("./CONSTANTS");
 var ajax=require("./ajax");
 var moment = require("moment");
+var MomentRange = require('moment-range');
+moment = MomentRange.extendMoment(moment);
 
 function hausala(){    
 
@@ -37,35 +39,69 @@ debugger
                     return map;
                 },[]);
                 
-                transferData(ousMap,desMap);
+                //transferData(ousMap,desMap);
+                historicData(ousMap,desMap)
             })
         })
         
 
     }
 
-    function transferData(ousMap,desMap){
-        
-        const startOfMonth = moment().startOf('month').format('YYYY-MM-DD');
-        const endOfMonth   = moment().endOf('month').format('YYYY-MM-DD');
-        
-        for (var key in constant.hausala_urls){
+    function historicData(ousMap,desMap){
+        function* dateMaker(startDate,endDate){
             
-   -         ajax.postReqWithoutAuth(constant.hausala_urls[key]+"?from="+startOfMonth+"&to="+endOfMonth,function(error,response,body){
-                if (error){
-                    __logger.error(error);
-                    return;
-                }
-
-                hausalaImporter(JSON.parse(body),startOfMonth,endOfMonth);
-                
-                
-            });
+            const range = moment.range(startDate,endDate);
             
+            for (var day of range.by('months')) {
+                yield day.format('YYYY-MM-DD');
+            }
         }
 
-        function hausalaImporter(response){
 
+        var dateYielder = dateMaker(moment('2017-04-01').format('YYYY-MM-DD'),moment('2019-05-01').format('YYYY-MM-DD'));
+
+        transfer();
+        function transfer(){
+            var index = dateYielder.next();
+            if (index.done){
+                __logger.info("All Done")                
+                return
+            }
+        
+            transferData(ousMap,desMap,index.value);
+            setTimeout(transfer,10000);
+            
+        }
+        
+    }
+    
+    function transferData(ousMap,desMap,date){
+        const startOfMonth = moment(date).startOf('month').format('YYYY-MM-DD');
+        const endOfMonth   = moment(date).endOf('month').format('YYYY-MM-DD');
+        
+        for (var key in constant.hausala_urls){
+            __logger.info("Moving for date[" + date+"] "+key);
+
+            ajax.postReqWithoutAuth(
+                constant.hausala_urls[key],
+                {
+                    "from":startOfMonth,
+                    "to":endOfMonth
+                },function(error,response,body){
+                    if (error){
+                        __logger.error(error);
+                        return;
+                    }
+                    
+                    hausalaImporter(JSON.parse(body),startOfMonth,endOfMonth);
+                    
+                    
+                });
+            
+        }
+        
+        function hausalaImporter(response){
+            __logger.info(response.status+" Hausala " + response.data.date_from + "-" + response.data.date_to)
             var dvs = {dataValues:[]};
             
             for(var ouID in response.data.data){
@@ -97,11 +133,15 @@ debugger
             }
             
             ajax.postReq(constant.DHIS_URL_BASE+"/api/dataValueSets",dvs,constant.auth,function(error,response,body){
+                if(error){
+                    __logger.error("Error with datavalue post"+error)
+                    return;
+                }
+                __logger.info(body.status + " " + JSON.stringify(body.importCount));
+                
                 debugger
             })
             
-            debugger
-
             function getPeriod(startdate,enddate,ptype){
 	        var pe = null;
 	        var refDate = moment(startdate);

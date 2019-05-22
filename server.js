@@ -4,7 +4,7 @@ var forwarder = require('./forwarder');
 var hausala = require('./hausala');
 
 var rootCas = require('ssl-root-cas/latest').create();
-//require('https').globalAgent.options.ca = rootCas;
+require('https').globalAgent.options.ca = rootCas;
 forwarder = new forwarder();
 
 // Initialise
