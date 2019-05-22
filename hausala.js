@@ -39,8 +39,8 @@ debugger
                     return map;
                 },[]);
                 
-                //transferData(ousMap,desMap);
-                historicData(ousMap,desMap)
+                transferData(ousMap,desMap,moment().format('YYYY-MM-DD'));
+                //historicData(ousMap,desMap)
             })
         })
         
@@ -94,8 +94,7 @@ debugger
                     }
                     
                     hausalaImporter(JSON.parse(body),startOfMonth,endOfMonth);
-                    
-                    
+                                        
                 });
             
         }
@@ -163,10 +162,9 @@ debugger
     
     function getDEs(callback){
         ajax.getReq(constant.DHIS_URL_BASE+"/api/dataElements?fields=id,name,code&paging=false&filter=dataElementGroups.code:eq:hausala_des",constant.auth,function(error,response,body){
-            __logger.info("Got response" + error)
             
             if (error){
-                __logger.error("Error" + response);
+                __logger.error("De Error" + response);
                 callback(null)
                 return;
             }
@@ -179,10 +177,9 @@ debugger
     
     function getOUs(callback){
         ajax.getReq(constant.DHIS_URL_BASE+"/api/organisationUnits?fields=id,name,attributeValues[value,attribute[id,name,code]]&paging=false",constant.auth,function(error,response,body){
-            __logger.info("Got response" + error)
             
             if (error){
-                __logger.error("Error" + response);
+                __logger.error("OU Error" + response);
                 callback(null)
                 return;
             }

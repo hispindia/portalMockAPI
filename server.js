@@ -50,7 +50,7 @@ filename: './logs/server.log',
     ]
 });
 /**
- */
+ 
 
 var server = app.listen(8000, function () {
     var host = server.address().address
@@ -76,9 +76,11 @@ app.get('/portalAPI/*', function(req, res){
 
     
 })
+*/
+
+__logger.info("Starting service");
 
 new hausala();
 
-__logger.info("Starting service");
 
 
