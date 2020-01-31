@@ -50,36 +50,42 @@ filename: './logs/server.log',
          })
     ]
 });
-/**
+
  
+function getForword() {
 
-var server = app.listen(8000, function () {
-    var host = server.address().address
-    var port = server.address().port
+    var server = app.listen(8000, function () {
+        var host = server.address().address
+        var port = server.address().port
 
-    __logger.info("Server listening at https://%s:%s", host, port);
-    
-})
+        __logger.info("Server listening at https://%s:%s", host, port);
+
+    })
 
 
-// Open API 
-app.get('/portalAPI/*', function(req, res){
-    var name = req.query.name
-    var tei =req.query.tei
+// Open API
+    app.get('/portalAPI/*', function(req, res){
+        var name = req.query.name
+        var tei =req.query.tei
 
-    var ou = req.query.ou;
+        var ou = req.query.ou;
 
-    forwarder.pass(req,function(result){
-    
-        res.writeHead(200, {'Content-Type': 'json'});
-        res.end(result);    
-    });
+        forwarder.pass(req,function(result){
 
-    
-})
-*/
+            res.writeHead(200, {'Content-Type': 'json'});
+            res.end(result);
+        });
+
+
+    })
+
+}
+
+
 switch(argv.portal){
     case 'hausala' : new hausala();
+        break;
+    case 'portalAPI' : getForword();
         break;
     default : __logger.info("No Portal specified ");
         break;
