@@ -2,9 +2,10 @@ var constant=require("./CONSTANTS");
 var express = require('express');
 var forwarder = require('./forwarder');
 var hausala = require('./hausala');
+var argv = require('yargs').argv;
 
-var rootCas = require('ssl-root-cas/latest').create();
-require('https').globalAgent.options.ca = rootCas;
+//var rootCas = require('ssl-root-cas/latest').create();
+//require('https').globalAgent.options.ca = rootCas;
 forwarder = new forwarder();
 
 // Initialise
@@ -77,10 +78,15 @@ app.get('/portalAPI/*', function(req, res){
     
 })
 */
+switch(argv.portal){
+    case 'hausala' : new hausala();
+        break;
+    default : __logger.info("No Portal specified ");
+        break;
+}
 
 __logger.info("Starting service");
 
-new hausala();
 
 
 

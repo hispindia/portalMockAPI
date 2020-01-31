@@ -22,8 +22,10 @@
     "express": "^4.16.4",
     "moment": "^2.24.0",
     "moment-range": "^4.0.2",
+    "react-scripts": "^2.1.8",
     "request": "^2.88.0",
     "ssl-root-cas": "^1.2.4",
-    "winston": "2.2.0"
+    "winston": "2.2.0",
+    "yargs": "^15.1.0"
   }
 }
