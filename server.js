@@ -2,7 +2,10 @@ var constant=require("./CONSTANTS");
 var express = require('express');
 var forwarder = require('./forwarder');
 var hausala = require('./hausala');
+
+
 var argv = require('yargs').argv;
+
 
 //var rootCas = require('ssl-root-cas/latest').create();
 //require('https').globalAgent.options.ca = rootCas;
@@ -51,7 +54,7 @@ filename: './logs/server.log',
     ]
 });
 
- 
+
 function getForword() {
 
     var server = app.listen(8000, function () {
@@ -61,38 +64,18 @@ function getForword() {
         __logger.info("Server listening at https://%s:%s", host, port);
 
     })
-
-
 // Open API
+function getDashboard(){
     app.get('/portalAPI/*', function(req, res){
         var name = req.query.name
         var tei =req.query.tei
-
         var ou = req.query.ou;
-
         forwarder.pass(req,function(result){
 
             res.writeHead(200, {'Content-Type': 'json'});
             res.end(result);
         });
 
-
     })
-
 }
-
-
-switch(argv.portal){
-    case 'hausala' : new hausala();
-        break;
-    case 'portalAPI' : getForword();
-        break;
-    default : __logger.info("No Portal specified ");
-        break;
-}
-
 __logger.info("Starting service");
-
-
-
-
