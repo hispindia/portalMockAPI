@@ -33,6 +33,15 @@ npm install // to install node js files in app
 
 then 
 
-node server.js // to run server.js file
+node server.js // to run server.js file for UPHMIS Dashboard.
+node api.js --portal=bcpm // to run api.js file for BCPM API
+node api.js --portal=hausala // to run api.js file for Hausala
+
+//Scheduling
+
+node api.js // cron job run automatically 1st of every month at 12 noon for hausala api and 2nd of every month at 12 noon for bcpm
+
+
+
 
 
