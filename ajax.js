@@ -8,8 +8,8 @@ exports.postReq = function(url,data,auth,callback) {
         json: true,   // <--Very important!!!
         body: data,
         headers: {
-            "Authorization": auth,
-            "Content-Type": "application/json",
+            "authorization": auth,
+            "content-Type": "application/json",
         }
     }, function (error, response, body) {
         callback(error,response,body);
@@ -62,6 +62,20 @@ exports.postReqWithoutAuth = function(url,pbody,callback){
         formData: pbody,
         method: "POST"
     }, function (error, response, body){
+        callback(error,response,body);
+    });
+}
+exports.postReqWithAuth = function(url,auth,pbody,callback) {
+    request({
+        url: url,
+        formData: pbody,
+        method: "POST",
+        json: true,   // <--Very important!!!
+        headers: {
+            "authorization": auth,
+            "content-Type": "application/json",
+        }
+    }, function (error, response, body) {
         callback(error,response,body);
     });
 }
