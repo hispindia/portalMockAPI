@@ -3,13 +3,16 @@ var express = require('express');
 var forwarder = require('./forwarder');
 var hausala = require('./hausala');
 var bcpm = require('./bcpm');
+var dvdms = require('./dvdms');
 
 var cron = require('node-cron');
 
-cron.schedule("0 0 12 1 * *", function() {
+var argv = require('yargs').argv;
+
+cron.schedule("0 0 12 30 * *", function() {
     new hausala();
 });
-cron.schedule("0 0 12 2 * *", function() {
+cron.schedule("0 0 15 30 * *", function() {
     new bcpm();
 });
 /*
@@ -22,10 +25,6 @@ cron.schedule("0 0 12 2 * *", function() {
      | minute
      second ( optional )
  */
-
-
-var argv = require('yargs').argv;
-
 
 //var rootCas = require('ssl-root-cas/latest').create();
 //require('https').globalAgent.options.ca = rootCas;
@@ -88,11 +87,12 @@ function getDashboard(){
     })
 }
 
-
 switch(argv.portal){
     case 'hausala' : new hausala();
         break;
     case 'bcpm' : new bcpm();
+        break;
+    case 'dvdms' : new dvdms();
         break;
     default : __logger.info("No Portal specified ");
         break;
