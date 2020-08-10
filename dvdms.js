@@ -10,7 +10,7 @@ var request = require("request");
 function dvdms(){
 
     init();
-    
+
     function init() {
         getOUs(function(ous){
             getDEs(function(des){
@@ -39,7 +39,7 @@ function dvdms(){
                 },[]);
 
                 transferData(ousMap1,desMap1,moment().format('YYYY-MM-DD'));
-                })
+            })
         })
     }
 
@@ -51,14 +51,34 @@ function dvdms(){
         const endOfMonth   = moment(date).endOf('month').format('YYYY-MM-DD');
         __logger.info("Moving for date[" + date +"] ");
         //__logger.info(Object.keys(ousMap))
+		var dvs2 = {dataValues:[]};
         for(var key in ousMap)
         {
             requestPost(key,startOfMonth,endOfMonth);
         }
+		
+		ajax.postReq(constant.DHIS_URL_BASE+"/api/dataValueSets",dvs2,constant.auth,function(error,response,body){
+                if(error){
+                    __logger.error("Error with datavalue post"+error)
+                    return;
+                }
+                
+                if(body.status === 'ERROR')
+                {
+                    __logger.info(JSON.stringify(response));
+                }
+                else{
+                    __logger.info(body.status + " " + JSON.stringify(body.importCount));
+                }
+
+
+                debugger
+        })
+		
         function requestPost(key,startOfMonth,endOfMonth){
             var options = {
                 method: 'POST',
-                'rejectUnauthorized': false,
+                'rejectUnauthorized': true,
                 url: constant.dvdms_url,
                 headers:
                     {
@@ -69,23 +89,30 @@ function dvdms(){
                 body: '{"primaryKeys": ['+key+']}' };
 
             request(options, function (error, response, body) {
-                if (error) throw new Error(error);
-                __logger.info(ousMap[key])
-                dvdmsImporter(JSON.parse(response.body),key, startOfMonth, endOfMonth);
+                //if (error) throw new Error(error);
+			//setTimeout(function () {
+                try {                    
+					
+						dvdmsImporter(JSON.parse(response.body),key, startOfMonth, endOfMonth);
+					
+                } catch (e) {
+                    __logger.info("Error in API response at store id: "+key+" Error is: "+e)
+                }
+				//}, 1000);
                 debugger;
             });
         }
         function dvdmsImporter(response,key,sdate,edate){
             //__logger.info(" DVDMS Integration" )
-            var dvs2 = {dataValues:[]};
+            
 
             for(var i=0; i<= response.dataValue.length-1 ;i++) {
                 var record = response.dataValue[i];
                 var ouID = key;
 
 
-                 var ouUID = ousMap[ouID].id;
-                 //console.log(response.uphmis_id);
+                var ouUID = ousMap[ouID].id;
+                //console.log(response.uphmis_id);
                 var drug = record[0];
                 if(!desMap[drug])
                 {
@@ -110,16 +137,7 @@ function dvdms(){
             }
             //console.log(dvs2);
 
-            ajax.postReq(constant.DHIS_URL_BASE+"/api/dataValueSets",dvs2,constant.auth,function(error,response,body){
-                if(error){
-                    __logger.error("Error with datavalue post"+error)
-                    return;
-                }
-                //__logger.info(body.status + " " + JSON.stringify(response));
-                __logger.info(body.status + " " + JSON.stringify(body.importCount));
-
-                debugger
-            })
+            
 
             function getPeriod(startdate,enddate,ptype){
                 var pe = null;
@@ -145,17 +163,17 @@ function dvdms(){
             ,constant.auth
             ,function(error,response,body){
 
-            if (error){
-                __logger.error("De Error" + response);
-                callback(null)
-                return;
-            }
-            callback(JSON.parse(body));
+                if (error){
+                    __logger.error("De Error" + response);
+                    callback(null)
+                    return;
+                }
+                callback(JSON.parse(body));
 
-        })
+            })
     }
     function getOUs(callback){
-        ajax.getReq(constant.DHIS_URL_BASE+"/api/organisationUnits?fields=id,name,attributeValues[value,attribute[id,name,code]]&paging=false",constant.auth,function(error,response,body){
+        ajax.getReq(constant.DHIS_URL_BASE+"/api/organisationUnits?fields=id,name,attributeValues[value,attribute[id,name,code]]&paging=false&filter=organisationUnitGroups.id:eq:JRLIvJzK4H0",constant.auth,function(error,response,body){
 
             if (error){
                 __logger.error("OU Error" + response);
