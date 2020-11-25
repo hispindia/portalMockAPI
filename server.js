@@ -1,8 +1,6 @@
 var constant=require("./CONSTANTS");
 var express = require('express');
 var forwarder = require('./forwarder');
-var hausala = require('./hausala');
-
 var rootCas = require('ssl-root-cas/latest').create();
 require('https').globalAgent.options.ca = rootCas;
 forwarder = new forwarder();
@@ -50,7 +48,7 @@ filename: './logs/server.log',
     ]
 });
 /**
- 
+ */
 
 var server = app.listen(8000, function () {
     var host = server.address().address
@@ -76,11 +74,9 @@ app.get('/portalAPI/*', function(req, res){
 
     
 })
-*/
+
+
 
 __logger.info("Starting service");
-
-new hausala();
-
 
 
