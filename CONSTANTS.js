@@ -1,10 +1,7 @@
-//exports.DHIS_URL_BASE = "https://uphmis.in/uphmis";
-//exports.DHIS_URL_BASE = "https://ln1.hispindia.org/uphmis230";
-exports.DHIS_URL_BASE = "http://localhost:8080/dhis";
+exports.DHIS_URL_BASE = "https://uphmis.in/uphmis";
 
-
-exports.username = "";
-exports.password = "";
+exports.username = "dashboard";
+exports.password = "!Dashboard@54321";
 exports.dvdms_user = "UP_dvdm$";
 exports.dvdms_pass = "UP_dvdm$";
 
