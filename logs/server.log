@@ -1,0 +1,1050 @@
+{"level":"info","message":"No Portal specified ","timestamp":"2020-11-25T06:26:47.560Z"}
+{"level":"info","message":"Starting service","timestamp":"2020-11-25T06:26:47.561Z"}
+{"level":"info","message":"No Portal specified ","timestamp":"2020-11-25T06:27:20.273Z"}
+{"level":"info","message":"Starting service","timestamp":"2020-11-25T06:27:20.274Z"}
+{"level":"info","message":"No Portal specified ","timestamp":"2020-11-25T06:27:42.729Z"}
+{"level":"info","message":"Starting service","timestamp":"2020-11-25T06:27:42.730Z"}
+{"level":"info","message":"Moving for date[2020-11-25] acc","timestamp":"2020-11-25T06:28:13.133Z"}
+{"level":"info","message":"Moving for date[2020-11-25] amp","timestamp":"2020-11-25T06:28:13.135Z"}
+{"level":"info","message":"Moving for date[2020-11-25] rei","timestamp":"2020-11-25T06:28:13.136Z"}
+{"level":"info","message":"1 Hausala 2020-11-01-2020-11-30","timestamp":"2020-11-25T06:28:13.849Z"}
+{"level":"info","message":"1 Hausala 2020-11-01-2020-11-30","timestamp":"2020-11-25T06:28:13.907Z"}
+{"level":"info","message":"1 Hausala 2020-11-01-2020-11-30","timestamp":"2020-11-25T06:28:14.007Z"}
+{"level":"info","message":"SUCCESS {\"imported\":518,\"updated\":7,\"ignored\":0,\"deleted\":0}","timestamp":"2020-11-25T06:28:15.021Z"}
+{"level":"info","message":"SUCCESS {\"imported\":518,\"updated\":7,\"ignored\":0,\"deleted\":0}","timestamp":"2020-11-25T06:28:15.029Z"}
+{"level":"info","message":"SUCCESS {\"imported\":814,\"updated\":11,\"ignored\":0,\"deleted\":0}","timestamp":"2020-11-25T06:28:15.418Z"}
+{"level":"info","message":"Moving for date[Wed Nov 25 2020 05:30:00 GMT+0530 (India Standard Time)] ","timestamp":"2020-11-25T06:29:07.700Z"}
+{"level":"info","message":"200","timestamp":"2020-11-25T06:29:28.148Z"}
+{"level":"info","message":"1 BCPM 2020-21-11","timestamp":"2020-11-25T06:29:28.316Z"}
+{"level":"info","message":"district name:Moradabad block name:Bilari SC name: Berni hmis code422086 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.386Z"}
+{"level":"info","message":"district name:Moradabad block name:Bilari SC name: Reeth hmis code428103 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.386Z"}
+{"level":"info","message":"district name:Meerut block name:Merut SC name: Partapur hmis code331326 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.416Z"}
+{"level":"info","message":"district name:Agra block name:Etmadpur SC name: Etmadpur hmis code410555 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.467Z"}
+{"level":"info","message":"district name:Budaun block name:Salarpur SC name: Binawar 2 hmis code381541 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.508Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: Harunagla hmis code400203 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.518Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: Nagaria Parikshit hmis code400223 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.518Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: Peer Bahoda hmis code400215 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.518Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: joginawada hmis code400214 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.519Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: vidholiya hmis code397976 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.521Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: saidpur hakans hmis code397977 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.521Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: mahelau hmis code397974 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.521Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: joharpur hmis code397969 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.521Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: faridapur hmis code397975 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.521Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: Sithora hmis code397965 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.521Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Bhauli hmis code395915 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.579Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Kamlabad badhauli hmis code422520 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.580Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Kotawa hmis code396235 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.580Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Mampur hmis code395906 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.581Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Rudahi hmis code395912 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.581Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Saragpur saraiyya hmis code422521 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.581Z"}
+{"level":"info","message":"district name:Lucknow block name:Chinhat SC name: Maleshemau  hmis code391662 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.582Z"}
+{"level":"info","message":"district name:Rae Bareli block name:Dih SC name: NPHC Parshadepur  hmis code452658 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.589Z"}
+{"level":"info","message":"district name:Hamirpur block name:Sarila SC name: Sarila hmis code465945 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.688Z"}
+{"level":"info","message":"district name:Hamirpur block name:Sarila SC name: Rahatiya hmis code465946 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.688Z"}
+{"level":"info","message":"district name:Pratapgarh block name:Baba Belkharnath SC name: Dilippur hmis code431714 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.706Z"}
+{"level":"info","message":"district name:Pratapgarh block name:Vihar SC name: Kashipur hmis code464548 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.712Z"}
+{"level":"info","message":"district name:Faizabad block name:Amaniganj SC name: Khandasa hmis code399552 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.730Z"}
+{"level":"info","message":"district name:Faizabad block name:Mavai SC name: Mawai Gird hmis code410619 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.733Z"}
+{"level":"info","message":"district name:Faizabad block name:Maya Bazar SC name: Maincenter  hmis code410612 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.734Z"}
+{"level":"info","message":"district name:Faizabad block name:Tarun SC name: Panbhariya hmis code399562 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.737Z"}
+{"level":"info","message":"district name:Bahraich block name:Mahasi SC name: phc mahsi hmis code402732 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.750Z"}
+{"level":"info","message":"district name:Shrawasti block name:Jamunaha SC name: Dandekuiya hmis code332219 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.754Z"}
+{"level":"info","message":"district name:Gonda block name:Jhanjhari SC name: Pant Nagar hmis code400339 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.760Z"}
+{"level":"info","message":"district name:Gonda block name:Jhanjhari SC name: Ram Nagar Tarher hmis code399388 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.760Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Bagulhawa hmis code404934 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.769Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Chatahri hmis code404935 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.769Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Khunuwa Bazar hmis code404932 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.769Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Luchiya hmis code404933 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.769Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Madrahna Junebi hmis code404931 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.769Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Mahmoodwa Grand hmis code404936 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.770Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Matha Bazzar hmis code404937 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.770Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Gaura Bazar hmis code404908 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.770Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name:  ramvapur Majhariya hmis code404927 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.770Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Palta Devi hmis code404926 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.770Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Pipry hmis code404485 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.770Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Chliya hmis code404776 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.770Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Dattpur hmis code404775 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.770Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Gadakul hmis code404773 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.770Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Ramwapur hmis code404774 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.770Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Shohratgarh hmis code404772 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.770Z"}
+{"level":"info","message":"district name:Kushinagar block name:Dudhahi SC name: Piprahi hmis code404957 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.802Z"}
+{"level":"info","message":"district name:Kushinagar block name:Khadda SC name: main center 2 hmis code403641 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.806Z"}
+{"level":"info","message":"district name:Kushinagar block name:Khadda SC name: MAIN CENTER 1 hmis code403639 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.807Z"}
+{"level":"info","message":"district name:Kushinagar block name:Padrauna SC name: Main Center hmis code405133 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.808Z"}
+{"level":"info","message":"district name:Kushinagar block name:Ramkola SC name: ramkola A1 hmis code404623 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.809Z"}
+{"level":"info","message":"district name:Kushinagar block name:Ramkola SC name: ramkola A2 hmis code404622 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.809Z"}
+{"level":"info","message":"district name:Kushinagar block name:Ramkola SC name: Ramkola B hmis code404621 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.809Z"}
+{"level":"info","message":"district name:Kushinagar block name:Vishunpura SC name: Main Center hmis code403987 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.812Z"}
+{"level":"info","message":"district name:Deoria block name:Bankata SC name: Men Center hmis code397820 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.815Z"}
+{"level":"info","message":"district name:Jaunpur block name:Dharampur SC name: Hauj hmis code330033 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.848Z"}
+{"level":"info","message":"district name:Jaunpur block name:Jalalpur SC name: Manahan hmis code330071 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.851Z"}
+{"level":"info","message":"district name:Jaunpur block name:Jalalpur SC name: Sirkoni hmis code330070 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.851Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: husepur hmis code330298 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.856Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: kotwalpur hmis code330299 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.857Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: Rajepur hmis code330296 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.857Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: shivpur hmis code330297 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.857Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: sehmalpur hmis code330300 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.857Z"}
+{"level":"info","message":"district name:Jaunpur block name:Sikrara SC name: Kuddupur hmis code330362 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.860Z"}
+{"level":"info","message":"district name:Jaunpur block name:Sikrara SC name: Nevada hmis code330380 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.860Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Dashwtpur hmis code332117 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.894Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Matethu 1st hmis code332119 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.894Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Matethu 2nd hmis code332120 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.894Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Newada hmis code332118 orgUnit not Mapped","timestamp":"2020-11-25T06:29:28.895Z"}
+{"level":"info","message":"200","timestamp":"2020-11-25T06:29:29.276Z"}
+{"level":"info","message":"1 BCPM 2020-21-11","timestamp":"2020-11-25T06:29:29.493Z"}
+{"level":"info","message":"district name:Moradabad block name:Bilari SC name: Berni hmis code422086 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.509Z"}
+{"level":"info","message":"district name:Moradabad block name:Bilari SC name: Reeth hmis code428103 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.511Z"}
+{"level":"info","message":"district name:Meerut block name:Merut SC name: Partapur hmis code331326 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.532Z"}
+{"level":"info","message":"district name:Agra block name:Etmadpur SC name: Etmadpur hmis code410555 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.561Z"}
+{"level":"info","message":"district name:Budaun block name:Salarpur SC name: Binawar 2 hmis code381541 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.577Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: Harunagla hmis code400203 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.582Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: Nagaria Parikshit hmis code400223 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.582Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: Peer Bahoda hmis code400215 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.583Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: joginawada hmis code400214 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.583Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: vidholiya hmis code397976 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.584Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: saidpur hakans hmis code397977 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.585Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: mahelau hmis code397974 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.585Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: joharpur hmis code397969 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.585Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: faridapur hmis code397975 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.585Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: Sithora hmis code397965 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.585Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Bhauli hmis code395915 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.627Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Kamlabad badhauli hmis code422520 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.628Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Kotawa hmis code396235 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.628Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Mampur hmis code395906 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.628Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Rudahi hmis code395912 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.628Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Saragpur saraiyya hmis code422521 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.629Z"}
+{"level":"info","message":"district name:Lucknow block name:Chinhat SC name: Maleshemau  hmis code391662 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.629Z"}
+{"level":"info","message":"district name:Rae Bareli block name:Dih SC name: NPHC Parshadepur  hmis code452658 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.637Z"}
+{"level":"info","message":"district name:Hamirpur block name:Sarila SC name: Sarila hmis code465945 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.691Z"}
+{"level":"info","message":"district name:Hamirpur block name:Sarila SC name: Rahatiya hmis code465946 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.691Z"}
+{"level":"info","message":"district name:Pratapgarh block name:Baba Belkharnath SC name: Dilippur hmis code431714 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.718Z"}
+{"level":"info","message":"district name:Pratapgarh block name:Vihar SC name: Kashipur hmis code464548 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.726Z"}
+{"level":"info","message":"district name:Faizabad block name:Amaniganj SC name: Khandasa hmis code399552 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.750Z"}
+{"level":"info","message":"district name:Faizabad block name:Mavai SC name: Mawai Gird hmis code410619 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.752Z"}
+{"level":"info","message":"district name:Faizabad block name:Maya Bazar SC name: Maincenter  hmis code410612 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.753Z"}
+{"level":"info","message":"district name:Faizabad block name:Tarun SC name: Panbhariya hmis code399562 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.755Z"}
+{"level":"info","message":"district name:Bahraich block name:Mahasi SC name: phc mahsi hmis code402732 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.764Z"}
+{"level":"info","message":"district name:Shrawasti block name:Jamunaha SC name: Dandekuiya hmis code332219 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.768Z"}
+{"level":"info","message":"district name:Gonda block name:Jhanjhari SC name: Pant Nagar hmis code400339 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.775Z"}
+{"level":"info","message":"district name:Gonda block name:Jhanjhari SC name: Ram Nagar Tarher hmis code399388 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.775Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Bagulhawa hmis code404934 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.787Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Chatahri hmis code404935 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.787Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Khunuwa Bazar hmis code404932 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.787Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Luchiya hmis code404933 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.787Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Madrahna Junebi hmis code404931 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.787Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Mahmoodwa Grand hmis code404936 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.787Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Matha Bazzar hmis code404937 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.787Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Gaura Bazar hmis code404908 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.787Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name:  ramvapur Majhariya hmis code404927 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.787Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Palta Devi hmis code404926 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.787Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Pipry hmis code404485 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.787Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Chliya hmis code404776 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.788Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Dattpur hmis code404775 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.788Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Gadakul hmis code404773 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.788Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Ramwapur hmis code404774 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.788Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Shohratgarh hmis code404772 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.788Z"}
+{"level":"info","message":"district name:Kushinagar block name:Dudhahi SC name: Piprahi hmis code404957 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.812Z"}
+{"level":"info","message":"district name:Kushinagar block name:Khadda SC name: main center 2 hmis code403641 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.815Z"}
+{"level":"info","message":"district name:Kushinagar block name:Khadda SC name: MAIN CENTER 1 hmis code403639 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.816Z"}
+{"level":"info","message":"district name:Kushinagar block name:Padrauna SC name: Main Center hmis code405133 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.817Z"}
+{"level":"info","message":"district name:Kushinagar block name:Ramkola SC name: ramkola A1 hmis code404623 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.818Z"}
+{"level":"info","message":"district name:Kushinagar block name:Ramkola SC name: ramkola A2 hmis code404622 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.819Z"}
+{"level":"info","message":"district name:Kushinagar block name:Ramkola SC name: Ramkola B hmis code404621 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.819Z"}
+{"level":"info","message":"district name:Kushinagar block name:Vishunpura SC name: Main Center hmis code403987 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.821Z"}
+{"level":"info","message":"district name:Deoria block name:Bankata SC name: Men Center hmis code397820 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.822Z"}
+{"level":"info","message":"district name:Jaunpur block name:Dharampur SC name: Hauj hmis code330033 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.842Z"}
+{"level":"info","message":"district name:Jaunpur block name:Jalalpur SC name: Manahan hmis code330071 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.843Z"}
+{"level":"info","message":"district name:Jaunpur block name:Jalalpur SC name: Sirkoni hmis code330070 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.843Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: husepur hmis code330298 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.846Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: kotwalpur hmis code330299 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.846Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: Rajepur hmis code330296 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.846Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: shivpur hmis code330297 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.846Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: sehmalpur hmis code330300 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.847Z"}
+{"level":"info","message":"district name:Jaunpur block name:Sikrara SC name: Kuddupur hmis code330362 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.849Z"}
+{"level":"info","message":"district name:Jaunpur block name:Sikrara SC name: Nevada hmis code330380 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.849Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Dashwtpur hmis code332117 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.871Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Matethu 1st hmis code332119 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.871Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Matethu 2nd hmis code332120 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.871Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Newada hmis code332118 orgUnit not Mapped","timestamp":"2020-11-25T06:29:29.871Z"}
+{"level":"info","message":"200","timestamp":"2020-11-25T06:29:30.664Z"}
+{"level":"info","message":"1 BCPM 2020-21-11","timestamp":"2020-11-25T06:29:30.914Z"}
+{"level":"info","message":"district name:Moradabad block name:Bilari SC name: Berni hmis code422086 orgUnit not Mapped","timestamp":"2020-11-25T06:29:30.933Z"}
+{"level":"info","message":"district name:Moradabad block name:Bilari SC name: Reeth hmis code428103 orgUnit not Mapped","timestamp":"2020-11-25T06:29:30.934Z"}
+{"level":"info","message":"district name:Meerut block name:Merut SC name: Partapur hmis code331326 orgUnit not Mapped","timestamp":"2020-11-25T06:29:30.946Z"}
+{"level":"info","message":"district name:Agra block name:Etmadpur SC name: Etmadpur hmis code410555 orgUnit not Mapped","timestamp":"2020-11-25T06:29:30.980Z"}
+{"level":"info","message":"district name:Budaun block name:Salarpur SC name: Binawar 2 hmis code381541 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.002Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: Harunagla hmis code400203 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.005Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: Nagaria Parikshit hmis code400223 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.006Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: Peer Bahoda hmis code400215 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.006Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: joginawada hmis code400214 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.006Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: vidholiya hmis code397976 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.007Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: saidpur hakans hmis code397977 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.007Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: mahelau hmis code397974 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.007Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: joharpur hmis code397969 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.007Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: faridapur hmis code397975 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.007Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: Sithora hmis code397965 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.007Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Bhauli hmis code395915 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.068Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Kamlabad badhauli hmis code422520 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.068Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Kotawa hmis code396235 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.068Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Mampur hmis code395906 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.069Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Rudahi hmis code395912 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.069Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Saragpur saraiyya hmis code422521 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.069Z"}
+{"level":"info","message":"district name:Lucknow block name:Chinhat SC name: Maleshemau  hmis code391662 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.069Z"}
+{"level":"info","message":"district name:Rae Bareli block name:Dih SC name: NPHC Parshadepur  hmis code452658 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.077Z"}
+{"level":"info","message":"district name:Hamirpur block name:Sarila SC name: Sarila hmis code465945 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.118Z"}
+{"level":"info","message":"district name:Hamirpur block name:Sarila SC name: Rahatiya hmis code465946 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.118Z"}
+{"level":"info","message":"district name:Pratapgarh block name:Baba Belkharnath SC name: Dilippur hmis code431714 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.132Z"}
+{"level":"info","message":"district name:Pratapgarh block name:Vihar SC name: Kashipur hmis code464548 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.139Z"}
+{"level":"info","message":"district name:Faizabad block name:Amaniganj SC name: Khandasa hmis code399552 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.170Z"}
+{"level":"info","message":"district name:Faizabad block name:Mavai SC name: Mawai Gird hmis code410619 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.174Z"}
+{"level":"info","message":"district name:Faizabad block name:Maya Bazar SC name: Maincenter  hmis code410612 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.175Z"}
+{"level":"info","message":"district name:Faizabad block name:Tarun SC name: Panbhariya hmis code399562 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.178Z"}
+{"level":"info","message":"district name:Bahraich block name:Mahasi SC name: phc mahsi hmis code402732 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.193Z"}
+{"level":"info","message":"district name:Shrawasti block name:Jamunaha SC name: Dandekuiya hmis code332219 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.207Z"}
+{"level":"info","message":"district name:Gonda block name:Jhanjhari SC name: Pant Nagar hmis code400339 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.216Z"}
+{"level":"info","message":"district name:Gonda block name:Jhanjhari SC name: Ram Nagar Tarher hmis code399388 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.216Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Bagulhawa hmis code404934 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.223Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Chatahri hmis code404935 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.224Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Khunuwa Bazar hmis code404932 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.224Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Luchiya hmis code404933 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.224Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Madrahna Junebi hmis code404931 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.224Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Mahmoodwa Grand hmis code404936 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.224Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Matha Bazzar hmis code404937 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.224Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Gaura Bazar hmis code404908 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.224Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name:  ramvapur Majhariya hmis code404927 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.224Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Palta Devi hmis code404926 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.224Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Pipry hmis code404485 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.224Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Chliya hmis code404776 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.224Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Dattpur hmis code404775 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.224Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Gadakul hmis code404773 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.224Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Ramwapur hmis code404774 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.224Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Shohratgarh hmis code404772 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.225Z"}
+{"level":"info","message":"district name:Kushinagar block name:Dudhahi SC name: Piprahi hmis code404957 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.256Z"}
+{"level":"info","message":"district name:Kushinagar block name:Khadda SC name: main center 2 hmis code403641 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.257Z"}
+{"level":"info","message":"district name:Kushinagar block name:Khadda SC name: MAIN CENTER 1 hmis code403639 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.257Z"}
+{"level":"info","message":"district name:Kushinagar block name:Padrauna SC name: Main Center hmis code405133 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.258Z"}
+{"level":"info","message":"district name:Kushinagar block name:Ramkola SC name: ramkola A1 hmis code404623 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.258Z"}
+{"level":"info","message":"district name:Kushinagar block name:Ramkola SC name: ramkola A2 hmis code404622 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.258Z"}
+{"level":"info","message":"district name:Kushinagar block name:Ramkola SC name: Ramkola B hmis code404621 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.259Z"}
+{"level":"info","message":"district name:Kushinagar block name:Vishunpura SC name: Main Center hmis code403987 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.260Z"}
+{"level":"info","message":"district name:Deoria block name:Bankata SC name: Men Center hmis code397820 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.260Z"}
+{"level":"info","message":"district name:Jaunpur block name:Dharampur SC name: Hauj hmis code330033 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.286Z"}
+{"level":"info","message":"district name:Jaunpur block name:Jalalpur SC name: Manahan hmis code330071 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.286Z"}
+{"level":"info","message":"district name:Jaunpur block name:Jalalpur SC name: Sirkoni hmis code330070 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.286Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: husepur hmis code330298 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.289Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: kotwalpur hmis code330299 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.289Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: Rajepur hmis code330296 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.289Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: shivpur hmis code330297 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.289Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: sehmalpur hmis code330300 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.290Z"}
+{"level":"info","message":"district name:Jaunpur block name:Sikrara SC name: Kuddupur hmis code330362 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.291Z"}
+{"level":"info","message":"district name:Jaunpur block name:Sikrara SC name: Nevada hmis code330380 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.291Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Dashwtpur hmis code332117 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.308Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Matethu 1st hmis code332119 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.308Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Matethu 2nd hmis code332120 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.308Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Newada hmis code332118 orgUnit not Mapped","timestamp":"2020-11-25T06:29:31.308Z"}
+{"level":"info","message":"200","timestamp":"2020-11-25T06:29:32.868Z"}
+{"level":"info","message":"1 BCPM 2020-21-11","timestamp":"2020-11-25T06:29:33.072Z"}
+{"level":"info","message":"district name:Moradabad block name:Bilari SC name: Berni hmis code422086 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.089Z"}
+{"level":"info","message":"district name:Moradabad block name:Bilari SC name: Reeth hmis code428103 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.090Z"}
+{"level":"info","message":"district name:Meerut block name:Merut SC name: Partapur hmis code331326 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.103Z"}
+{"level":"info","message":"district name:Agra block name:Etmadpur SC name: Etmadpur hmis code410555 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.136Z"}
+{"level":"info","message":"district name:Budaun block name:Salarpur SC name: Binawar 2 hmis code381541 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.156Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: Harunagla hmis code400203 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.158Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: Nagaria Parikshit hmis code400223 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.159Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: Peer Bahoda hmis code400215 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.159Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: joginawada hmis code400214 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.159Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: vidholiya hmis code397976 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.160Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: saidpur hakans hmis code397977 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.160Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: mahelau hmis code397974 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.160Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: joharpur hmis code397969 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.160Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: faridapur hmis code397975 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.160Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: Sithora hmis code397965 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.160Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Bhauli hmis code395915 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.220Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Kamlabad badhauli hmis code422520 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.220Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Kotawa hmis code396235 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.220Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Mampur hmis code395906 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.220Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Rudahi hmis code395912 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.221Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Saragpur saraiyya hmis code422521 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.221Z"}
+{"level":"info","message":"district name:Lucknow block name:Chinhat SC name: Maleshemau  hmis code391662 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.221Z"}
+{"level":"info","message":"district name:Rae Bareli block name:Dih SC name: NPHC Parshadepur  hmis code452658 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.233Z"}
+{"level":"info","message":"district name:Hamirpur block name:Sarila SC name: Sarila hmis code465945 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.273Z"}
+{"level":"info","message":"district name:Hamirpur block name:Sarila SC name: Rahatiya hmis code465946 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.274Z"}
+{"level":"info","message":"district name:Pratapgarh block name:Baba Belkharnath SC name: Dilippur hmis code431714 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.286Z"}
+{"level":"info","message":"district name:Pratapgarh block name:Vihar SC name: Kashipur hmis code464548 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.293Z"}
+{"level":"info","message":"district name:Faizabad block name:Amaniganj SC name: Khandasa hmis code399552 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.309Z"}
+{"level":"info","message":"district name:Faizabad block name:Mavai SC name: Mawai Gird hmis code410619 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.310Z"}
+{"level":"info","message":"district name:Faizabad block name:Maya Bazar SC name: Maincenter  hmis code410612 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.312Z"}
+{"level":"info","message":"district name:Faizabad block name:Tarun SC name: Panbhariya hmis code399562 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.315Z"}
+{"level":"info","message":"district name:Bahraich block name:Mahasi SC name: phc mahsi hmis code402732 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.323Z"}
+{"level":"info","message":"district name:Shrawasti block name:Jamunaha SC name: Dandekuiya hmis code332219 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.326Z"}
+{"level":"info","message":"district name:Gonda block name:Jhanjhari SC name: Pant Nagar hmis code400339 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.334Z"}
+{"level":"info","message":"district name:Gonda block name:Jhanjhari SC name: Ram Nagar Tarher hmis code399388 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.334Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Bagulhawa hmis code404934 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.341Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Chatahri hmis code404935 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.341Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Khunuwa Bazar hmis code404932 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.341Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Luchiya hmis code404933 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.341Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Madrahna Junebi hmis code404931 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.341Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Mahmoodwa Grand hmis code404936 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.341Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Matha Bazzar hmis code404937 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.341Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Gaura Bazar hmis code404908 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.341Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name:  ramvapur Majhariya hmis code404927 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.341Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Palta Devi hmis code404926 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.341Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Pipry hmis code404485 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.342Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Chliya hmis code404776 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.342Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Dattpur hmis code404775 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.342Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Gadakul hmis code404773 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.342Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Ramwapur hmis code404774 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.342Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Shohratgarh hmis code404772 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.342Z"}
+{"level":"info","message":"district name:Kushinagar block name:Dudhahi SC name: Piprahi hmis code404957 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.362Z"}
+{"level":"info","message":"district name:Kushinagar block name:Khadda SC name: main center 2 hmis code403641 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.365Z"}
+{"level":"info","message":"district name:Kushinagar block name:Khadda SC name: MAIN CENTER 1 hmis code403639 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.365Z"}
+{"level":"info","message":"district name:Kushinagar block name:Padrauna SC name: Main Center hmis code405133 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.366Z"}
+{"level":"info","message":"district name:Kushinagar block name:Ramkola SC name: ramkola A1 hmis code404623 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.367Z"}
+{"level":"info","message":"district name:Kushinagar block name:Ramkola SC name: ramkola A2 hmis code404622 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.367Z"}
+{"level":"info","message":"district name:Kushinagar block name:Ramkola SC name: Ramkola B hmis code404621 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.367Z"}
+{"level":"info","message":"district name:Kushinagar block name:Vishunpura SC name: Main Center hmis code403987 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.369Z"}
+{"level":"info","message":"district name:Deoria block name:Bankata SC name: Men Center hmis code397820 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.370Z"}
+{"level":"info","message":"district name:Jaunpur block name:Dharampur SC name: Hauj hmis code330033 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.392Z"}
+{"level":"info","message":"district name:Jaunpur block name:Jalalpur SC name: Manahan hmis code330071 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.392Z"}
+{"level":"info","message":"district name:Jaunpur block name:Jalalpur SC name: Sirkoni hmis code330070 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.392Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: husepur hmis code330298 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.398Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: kotwalpur hmis code330299 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.399Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: Rajepur hmis code330296 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.399Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: shivpur hmis code330297 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.399Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: sehmalpur hmis code330300 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.399Z"}
+{"level":"info","message":"district name:Jaunpur block name:Sikrara SC name: Kuddupur hmis code330362 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.401Z"}
+{"level":"info","message":"district name:Jaunpur block name:Sikrara SC name: Nevada hmis code330380 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.402Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Dashwtpur hmis code332117 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.424Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Matethu 1st hmis code332119 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.424Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Matethu 2nd hmis code332120 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.424Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Newada hmis code332118 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.424Z"}
+{"level":"info","message":"200","timestamp":"2020-11-25T06:29:33.477Z"}
+{"level":"info","message":"1 BCPM 2020-21-11","timestamp":"2020-11-25T06:29:33.594Z"}
+{"level":"info","message":"district name:Moradabad block name:Bilari SC name: Berni hmis code422086 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.610Z"}
+{"level":"info","message":"district name:Moradabad block name:Bilari SC name: Reeth hmis code428103 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.611Z"}
+{"level":"info","message":"district name:Meerut block name:Merut SC name: Partapur hmis code331326 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.623Z"}
+{"level":"info","message":"district name:Agra block name:Etmadpur SC name: Etmadpur hmis code410555 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.654Z"}
+{"level":"info","message":"district name:Budaun block name:Salarpur SC name: Binawar 2 hmis code381541 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.668Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: Harunagla hmis code400203 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.675Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: Nagaria Parikshit hmis code400223 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.675Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: Peer Bahoda hmis code400215 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.675Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: joginawada hmis code400214 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.676Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: vidholiya hmis code397976 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.677Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: saidpur hakans hmis code397977 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.677Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: mahelau hmis code397974 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.677Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: joharpur hmis code397969 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.677Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: faridapur hmis code397975 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.677Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: Sithora hmis code397965 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.677Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Bhauli hmis code395915 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.740Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Kamlabad badhauli hmis code422520 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.740Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Kotawa hmis code396235 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.741Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Mampur hmis code395906 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.741Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Rudahi hmis code395912 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.741Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Saragpur saraiyya hmis code422521 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.741Z"}
+{"level":"info","message":"district name:Lucknow block name:Chinhat SC name: Maleshemau  hmis code391662 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.741Z"}
+{"level":"info","message":"district name:Rae Bareli block name:Dih SC name: NPHC Parshadepur  hmis code452658 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.746Z"}
+{"level":"info","message":"district name:Hamirpur block name:Sarila SC name: Sarila hmis code465945 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.787Z"}
+{"level":"info","message":"district name:Hamirpur block name:Sarila SC name: Rahatiya hmis code465946 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.788Z"}
+{"level":"info","message":"district name:Pratapgarh block name:Baba Belkharnath SC name: Dilippur hmis code431714 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.800Z"}
+{"level":"info","message":"district name:Pratapgarh block name:Vihar SC name: Kashipur hmis code464548 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.803Z"}
+{"level":"info","message":"district name:Faizabad block name:Amaniganj SC name: Khandasa hmis code399552 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.819Z"}
+{"level":"info","message":"district name:Faizabad block name:Mavai SC name: Mawai Gird hmis code410619 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.821Z"}
+{"level":"info","message":"district name:Faizabad block name:Maya Bazar SC name: Maincenter  hmis code410612 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.822Z"}
+{"level":"info","message":"district name:Faizabad block name:Tarun SC name: Panbhariya hmis code399562 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.824Z"}
+{"level":"info","message":"district name:Bahraich block name:Mahasi SC name: phc mahsi hmis code402732 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.834Z"}
+{"level":"info","message":"district name:Shrawasti block name:Jamunaha SC name: Dandekuiya hmis code332219 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.838Z"}
+{"level":"info","message":"district name:Gonda block name:Jhanjhari SC name: Pant Nagar hmis code400339 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.843Z"}
+{"level":"info","message":"district name:Gonda block name:Jhanjhari SC name: Ram Nagar Tarher hmis code399388 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.843Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Bagulhawa hmis code404934 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.850Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Chatahri hmis code404935 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.850Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Khunuwa Bazar hmis code404932 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.850Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Luchiya hmis code404933 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.851Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Madrahna Junebi hmis code404931 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.851Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Mahmoodwa Grand hmis code404936 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.851Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Matha Bazzar hmis code404937 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.851Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Gaura Bazar hmis code404908 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.851Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name:  ramvapur Majhariya hmis code404927 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.851Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Palta Devi hmis code404926 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.851Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Pipry hmis code404485 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.851Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Chliya hmis code404776 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.851Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Dattpur hmis code404775 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.851Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Gadakul hmis code404773 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.851Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Ramwapur hmis code404774 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.851Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Shohratgarh hmis code404772 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.851Z"}
+{"level":"info","message":"district name:Kushinagar block name:Dudhahi SC name: Piprahi hmis code404957 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.873Z"}
+{"level":"info","message":"district name:Kushinagar block name:Khadda SC name: main center 2 hmis code403641 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.876Z"}
+{"level":"info","message":"district name:Kushinagar block name:Khadda SC name: MAIN CENTER 1 hmis code403639 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.876Z"}
+{"level":"info","message":"district name:Kushinagar block name:Padrauna SC name: Main Center hmis code405133 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.877Z"}
+{"level":"info","message":"district name:Kushinagar block name:Ramkola SC name: ramkola A1 hmis code404623 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.878Z"}
+{"level":"info","message":"district name:Kushinagar block name:Ramkola SC name: ramkola A2 hmis code404622 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.878Z"}
+{"level":"info","message":"district name:Kushinagar block name:Ramkola SC name: Ramkola B hmis code404621 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.878Z"}
+{"level":"info","message":"district name:Kushinagar block name:Vishunpura SC name: Main Center hmis code403987 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.880Z"}
+{"level":"info","message":"district name:Deoria block name:Bankata SC name: Men Center hmis code397820 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.882Z"}
+{"level":"info","message":"district name:Jaunpur block name:Dharampur SC name: Hauj hmis code330033 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.904Z"}
+{"level":"info","message":"district name:Jaunpur block name:Jalalpur SC name: Manahan hmis code330071 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.905Z"}
+{"level":"info","message":"district name:Jaunpur block name:Jalalpur SC name: Sirkoni hmis code330070 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.905Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: husepur hmis code330298 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.907Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: kotwalpur hmis code330299 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.908Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: Rajepur hmis code330296 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.908Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: shivpur hmis code330297 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.908Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: sehmalpur hmis code330300 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.908Z"}
+{"level":"info","message":"district name:Jaunpur block name:Sikrara SC name: Kuddupur hmis code330362 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.909Z"}
+{"level":"info","message":"district name:Jaunpur block name:Sikrara SC name: Nevada hmis code330380 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.909Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Dashwtpur hmis code332117 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.927Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Matethu 1st hmis code332119 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.927Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Matethu 2nd hmis code332120 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.927Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Newada hmis code332118 orgUnit not Mapped","timestamp":"2020-11-25T06:29:33.927Z"}
+{"level":"info","message":"200","timestamp":"2020-11-25T06:29:34.001Z"}
+{"level":"info","message":"1 BCPM 2020-21-11","timestamp":"2020-11-25T06:29:34.220Z"}
+{"level":"info","message":"district name:Moradabad block name:Bilari SC name: Berni hmis code422086 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.239Z"}
+{"level":"info","message":"district name:Moradabad block name:Bilari SC name: Reeth hmis code428103 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.239Z"}
+{"level":"info","message":"district name:Meerut block name:Merut SC name: Partapur hmis code331326 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.252Z"}
+{"level":"info","message":"district name:Agra block name:Etmadpur SC name: Etmadpur hmis code410555 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.284Z"}
+{"level":"info","message":"district name:Budaun block name:Salarpur SC name: Binawar 2 hmis code381541 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.306Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: Harunagla hmis code400203 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.308Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: Nagaria Parikshit hmis code400223 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.309Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: Peer Bahoda hmis code400215 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.309Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: joginawada hmis code400214 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.309Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: vidholiya hmis code397976 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.310Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: saidpur hakans hmis code397977 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.310Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: mahelau hmis code397974 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.310Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: joharpur hmis code397969 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.310Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: faridapur hmis code397975 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.310Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: Sithora hmis code397965 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.310Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Bhauli hmis code395915 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.377Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Kamlabad badhauli hmis code422520 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.377Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Kotawa hmis code396235 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.377Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Mampur hmis code395906 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.377Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Rudahi hmis code395912 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.378Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Saragpur saraiyya hmis code422521 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.378Z"}
+{"level":"info","message":"district name:Lucknow block name:Chinhat SC name: Maleshemau  hmis code391662 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.379Z"}
+{"level":"info","message":"district name:Rae Bareli block name:Dih SC name: NPHC Parshadepur  hmis code452658 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.389Z"}
+{"level":"info","message":"district name:Hamirpur block name:Sarila SC name: Sarila hmis code465945 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.423Z"}
+{"level":"info","message":"district name:Hamirpur block name:Sarila SC name: Rahatiya hmis code465946 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.424Z"}
+{"level":"info","message":"district name:Pratapgarh block name:Baba Belkharnath SC name: Dilippur hmis code431714 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.437Z"}
+{"level":"info","message":"district name:Pratapgarh block name:Vihar SC name: Kashipur hmis code464548 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.444Z"}
+{"level":"info","message":"district name:Faizabad block name:Amaniganj SC name: Khandasa hmis code399552 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.465Z"}
+{"level":"info","message":"district name:Faizabad block name:Mavai SC name: Mawai Gird hmis code410619 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.466Z"}
+{"level":"info","message":"district name:Faizabad block name:Maya Bazar SC name: Maincenter  hmis code410612 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.467Z"}
+{"level":"info","message":"district name:Faizabad block name:Tarun SC name: Panbhariya hmis code399562 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.469Z"}
+{"level":"info","message":"district name:Bahraich block name:Mahasi SC name: phc mahsi hmis code402732 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.481Z"}
+{"level":"info","message":"district name:Shrawasti block name:Jamunaha SC name: Dandekuiya hmis code332219 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.486Z"}
+{"level":"info","message":"district name:Gonda block name:Jhanjhari SC name: Pant Nagar hmis code400339 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.491Z"}
+{"level":"info","message":"district name:Gonda block name:Jhanjhari SC name: Ram Nagar Tarher hmis code399388 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.491Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Bagulhawa hmis code404934 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.500Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Chatahri hmis code404935 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.500Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Khunuwa Bazar hmis code404932 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.500Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Luchiya hmis code404933 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.500Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Madrahna Junebi hmis code404931 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.500Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Mahmoodwa Grand hmis code404936 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.500Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Matha Bazzar hmis code404937 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.500Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Gaura Bazar hmis code404908 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.501Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name:  ramvapur Majhariya hmis code404927 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.501Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Palta Devi hmis code404926 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.501Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Pipry hmis code404485 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.501Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Chliya hmis code404776 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.501Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Dattpur hmis code404775 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.501Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Gadakul hmis code404773 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.501Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Ramwapur hmis code404774 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.501Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Shohratgarh hmis code404772 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.502Z"}
+{"level":"info","message":"district name:Kushinagar block name:Dudhahi SC name: Piprahi hmis code404957 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.523Z"}
+{"level":"info","message":"district name:Kushinagar block name:Khadda SC name: main center 2 hmis code403641 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.524Z"}
+{"level":"info","message":"district name:Kushinagar block name:Khadda SC name: MAIN CENTER 1 hmis code403639 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.525Z"}
+{"level":"info","message":"district name:Kushinagar block name:Padrauna SC name: Main Center hmis code405133 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.526Z"}
+{"level":"info","message":"district name:Kushinagar block name:Ramkola SC name: ramkola A1 hmis code404623 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.526Z"}
+{"level":"info","message":"district name:Kushinagar block name:Ramkola SC name: ramkola A2 hmis code404622 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.526Z"}
+{"level":"info","message":"district name:Kushinagar block name:Ramkola SC name: Ramkola B hmis code404621 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.526Z"}
+{"level":"info","message":"district name:Kushinagar block name:Vishunpura SC name: Main Center hmis code403987 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.530Z"}
+{"level":"info","message":"district name:Deoria block name:Bankata SC name: Men Center hmis code397820 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.532Z"}
+{"level":"info","message":"district name:Jaunpur block name:Dharampur SC name: Hauj hmis code330033 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.554Z"}
+{"level":"info","message":"district name:Jaunpur block name:Jalalpur SC name: Manahan hmis code330071 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.555Z"}
+{"level":"info","message":"district name:Jaunpur block name:Jalalpur SC name: Sirkoni hmis code330070 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.555Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: husepur hmis code330298 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.557Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: kotwalpur hmis code330299 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.557Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: Rajepur hmis code330296 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.558Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: shivpur hmis code330297 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.558Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: sehmalpur hmis code330300 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.558Z"}
+{"level":"info","message":"district name:Jaunpur block name:Sikrara SC name: Kuddupur hmis code330362 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.559Z"}
+{"level":"info","message":"district name:Jaunpur block name:Sikrara SC name: Nevada hmis code330380 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.559Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Dashwtpur hmis code332117 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.576Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Matethu 1st hmis code332119 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.576Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Matethu 2nd hmis code332120 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.576Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Newada hmis code332118 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.576Z"}
+{"level":"info","message":"200","timestamp":"2020-11-25T06:29:34.634Z"}
+{"level":"info","message":"1 BCPM 2020-21-11","timestamp":"2020-11-25T06:29:34.743Z"}
+{"level":"info","message":"district name:Moradabad block name:Bilari SC name: Berni hmis code422086 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.755Z"}
+{"level":"info","message":"district name:Moradabad block name:Bilari SC name: Reeth hmis code428103 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.755Z"}
+{"level":"info","message":"district name:Meerut block name:Merut SC name: Partapur hmis code331326 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.767Z"}
+{"level":"info","message":"district name:Agra block name:Etmadpur SC name: Etmadpur hmis code410555 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.802Z"}
+{"level":"info","message":"district name:Budaun block name:Salarpur SC name: Binawar 2 hmis code381541 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.817Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: Harunagla hmis code400203 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.821Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: Nagaria Parikshit hmis code400223 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.822Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: Peer Bahoda hmis code400215 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.822Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: joginawada hmis code400214 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.822Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: vidholiya hmis code397976 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.826Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: saidpur hakans hmis code397977 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.826Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: mahelau hmis code397974 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.826Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: joharpur hmis code397969 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.826Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: faridapur hmis code397975 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.826Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: Sithora hmis code397965 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.826Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Bhauli hmis code395915 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.862Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Kamlabad badhauli hmis code422520 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.863Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Kotawa hmis code396235 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.863Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Mampur hmis code395906 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.863Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Rudahi hmis code395912 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.864Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Saragpur saraiyya hmis code422521 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.864Z"}
+{"level":"info","message":"district name:Lucknow block name:Chinhat SC name: Maleshemau  hmis code391662 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.865Z"}
+{"level":"info","message":"district name:Rae Bareli block name:Dih SC name: NPHC Parshadepur  hmis code452658 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.870Z"}
+{"level":"info","message":"district name:Hamirpur block name:Sarila SC name: Sarila hmis code465945 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.915Z"}
+{"level":"info","message":"district name:Hamirpur block name:Sarila SC name: Rahatiya hmis code465946 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.916Z"}
+{"level":"info","message":"district name:Pratapgarh block name:Baba Belkharnath SC name: Dilippur hmis code431714 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.931Z"}
+{"level":"info","message":"district name:Pratapgarh block name:Vihar SC name: Kashipur hmis code464548 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.937Z"}
+{"level":"info","message":"district name:Faizabad block name:Amaniganj SC name: Khandasa hmis code399552 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.956Z"}
+{"level":"info","message":"district name:Faizabad block name:Mavai SC name: Mawai Gird hmis code410619 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.957Z"}
+{"level":"info","message":"district name:Faizabad block name:Maya Bazar SC name: Maincenter  hmis code410612 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.958Z"}
+{"level":"info","message":"district name:Faizabad block name:Tarun SC name: Panbhariya hmis code399562 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.961Z"}
+{"level":"info","message":"district name:Bahraich block name:Mahasi SC name: phc mahsi hmis code402732 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.972Z"}
+{"level":"info","message":"district name:Shrawasti block name:Jamunaha SC name: Dandekuiya hmis code332219 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.976Z"}
+{"level":"info","message":"district name:Gonda block name:Jhanjhari SC name: Pant Nagar hmis code400339 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.985Z"}
+{"level":"info","message":"district name:Gonda block name:Jhanjhari SC name: Ram Nagar Tarher hmis code399388 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.985Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Bagulhawa hmis code404934 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.991Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Chatahri hmis code404935 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.991Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Khunuwa Bazar hmis code404932 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.991Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Luchiya hmis code404933 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.991Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Madrahna Junebi hmis code404931 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.992Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Mahmoodwa Grand hmis code404936 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.992Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Matha Bazzar hmis code404937 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.992Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Gaura Bazar hmis code404908 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.992Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name:  ramvapur Majhariya hmis code404927 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.992Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Palta Devi hmis code404926 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.992Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Pipry hmis code404485 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.992Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Chliya hmis code404776 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.992Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Dattpur hmis code404775 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.992Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Gadakul hmis code404773 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.992Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Ramwapur hmis code404774 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.992Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Shohratgarh hmis code404772 orgUnit not Mapped","timestamp":"2020-11-25T06:29:34.992Z"}
+{"level":"info","message":"district name:Kushinagar block name:Dudhahi SC name: Piprahi hmis code404957 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.013Z"}
+{"level":"info","message":"district name:Kushinagar block name:Khadda SC name: main center 2 hmis code403641 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.015Z"}
+{"level":"info","message":"district name:Kushinagar block name:Khadda SC name: MAIN CENTER 1 hmis code403639 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.016Z"}
+{"level":"info","message":"district name:Kushinagar block name:Padrauna SC name: Main Center hmis code405133 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.017Z"}
+{"level":"info","message":"district name:Kushinagar block name:Ramkola SC name: ramkola A1 hmis code404623 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.017Z"}
+{"level":"info","message":"district name:Kushinagar block name:Ramkola SC name: ramkola A2 hmis code404622 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.018Z"}
+{"level":"info","message":"district name:Kushinagar block name:Ramkola SC name: Ramkola B hmis code404621 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.018Z"}
+{"level":"info","message":"district name:Kushinagar block name:Vishunpura SC name: Main Center hmis code403987 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.019Z"}
+{"level":"info","message":"district name:Deoria block name:Bankata SC name: Men Center hmis code397820 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.020Z"}
+{"level":"info","message":"district name:Jaunpur block name:Dharampur SC name: Hauj hmis code330033 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.043Z"}
+{"level":"info","message":"district name:Jaunpur block name:Jalalpur SC name: Manahan hmis code330071 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.044Z"}
+{"level":"info","message":"district name:Jaunpur block name:Jalalpur SC name: Sirkoni hmis code330070 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.045Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: husepur hmis code330298 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.049Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: kotwalpur hmis code330299 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.049Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: Rajepur hmis code330296 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.049Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: shivpur hmis code330297 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.049Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: sehmalpur hmis code330300 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.049Z"}
+{"level":"info","message":"district name:Jaunpur block name:Sikrara SC name: Kuddupur hmis code330362 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.051Z"}
+{"level":"info","message":"district name:Jaunpur block name:Sikrara SC name: Nevada hmis code330380 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.051Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Dashwtpur hmis code332117 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.065Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Matethu 1st hmis code332119 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.065Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Matethu 2nd hmis code332120 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.065Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Newada hmis code332118 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.065Z"}
+{"level":"info","message":"200","timestamp":"2020-11-25T06:29:35.128Z"}
+{"level":"info","message":"1 BCPM 2020-21-11","timestamp":"2020-11-25T06:29:35.222Z"}
+{"level":"info","message":"district name:Moradabad block name:Bilari SC name: Berni hmis code422086 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.236Z"}
+{"level":"info","message":"district name:Moradabad block name:Bilari SC name: Reeth hmis code428103 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.236Z"}
+{"level":"info","message":"district name:Meerut block name:Merut SC name: Partapur hmis code331326 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.244Z"}
+{"level":"info","message":"district name:Agra block name:Etmadpur SC name: Etmadpur hmis code410555 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.275Z"}
+{"level":"info","message":"district name:Budaun block name:Salarpur SC name: Binawar 2 hmis code381541 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.288Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: Harunagla hmis code400203 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.293Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: Nagaria Parikshit hmis code400223 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.293Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: Peer Bahoda hmis code400215 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.295Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: joginawada hmis code400214 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.295Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: vidholiya hmis code397976 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.299Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: saidpur hakans hmis code397977 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.299Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: mahelau hmis code397974 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.299Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: joharpur hmis code397969 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.299Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: faridapur hmis code397975 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.299Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: Sithora hmis code397965 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.299Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Bhauli hmis code395915 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.338Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Kamlabad badhauli hmis code422520 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.338Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Kotawa hmis code396235 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.338Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Mampur hmis code395906 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.339Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Rudahi hmis code395912 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.339Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Saragpur saraiyya hmis code422521 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.339Z"}
+{"level":"info","message":"district name:Lucknow block name:Chinhat SC name: Maleshemau  hmis code391662 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.339Z"}
+{"level":"info","message":"district name:Rae Bareli block name:Dih SC name: NPHC Parshadepur  hmis code452658 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.343Z"}
+{"level":"info","message":"district name:Hamirpur block name:Sarila SC name: Sarila hmis code465945 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.381Z"}
+{"level":"info","message":"district name:Hamirpur block name:Sarila SC name: Rahatiya hmis code465946 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.382Z"}
+{"level":"info","message":"district name:Pratapgarh block name:Baba Belkharnath SC name: Dilippur hmis code431714 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.396Z"}
+{"level":"info","message":"district name:Pratapgarh block name:Vihar SC name: Kashipur hmis code464548 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.401Z"}
+{"level":"info","message":"district name:Faizabad block name:Amaniganj SC name: Khandasa hmis code399552 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.416Z"}
+{"level":"info","message":"district name:Faizabad block name:Mavai SC name: Mawai Gird hmis code410619 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.418Z"}
+{"level":"info","message":"district name:Faizabad block name:Maya Bazar SC name: Maincenter  hmis code410612 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.418Z"}
+{"level":"info","message":"district name:Faizabad block name:Tarun SC name: Panbhariya hmis code399562 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.419Z"}
+{"level":"info","message":"district name:Bahraich block name:Mahasi SC name: phc mahsi hmis code402732 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.426Z"}
+{"level":"info","message":"district name:Shrawasti block name:Jamunaha SC name: Dandekuiya hmis code332219 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.431Z"}
+{"level":"info","message":"district name:Gonda block name:Jhanjhari SC name: Pant Nagar hmis code400339 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.438Z"}
+{"level":"info","message":"district name:Gonda block name:Jhanjhari SC name: Ram Nagar Tarher hmis code399388 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.438Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Bagulhawa hmis code404934 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.442Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Chatahri hmis code404935 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.442Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Khunuwa Bazar hmis code404932 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.443Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Luchiya hmis code404933 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.443Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Madrahna Junebi hmis code404931 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.443Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Mahmoodwa Grand hmis code404936 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.443Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Matha Bazzar hmis code404937 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.443Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Gaura Bazar hmis code404908 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.443Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name:  ramvapur Majhariya hmis code404927 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.443Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Palta Devi hmis code404926 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.443Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Pipry hmis code404485 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.443Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Chliya hmis code404776 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.443Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Dattpur hmis code404775 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.443Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Gadakul hmis code404773 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.443Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Ramwapur hmis code404774 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.443Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Shohratgarh hmis code404772 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.443Z"}
+{"level":"info","message":"district name:Kushinagar block name:Dudhahi SC name: Piprahi hmis code404957 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.466Z"}
+{"level":"info","message":"district name:Kushinagar block name:Khadda SC name: main center 2 hmis code403641 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.468Z"}
+{"level":"info","message":"district name:Kushinagar block name:Khadda SC name: MAIN CENTER 1 hmis code403639 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.468Z"}
+{"level":"info","message":"district name:Kushinagar block name:Padrauna SC name: Main Center hmis code405133 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.470Z"}
+{"level":"info","message":"district name:Kushinagar block name:Ramkola SC name: ramkola A1 hmis code404623 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.471Z"}
+{"level":"info","message":"district name:Kushinagar block name:Ramkola SC name: ramkola A2 hmis code404622 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.471Z"}
+{"level":"info","message":"district name:Kushinagar block name:Ramkola SC name: Ramkola B hmis code404621 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.471Z"}
+{"level":"info","message":"district name:Kushinagar block name:Vishunpura SC name: Main Center hmis code403987 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.472Z"}
+{"level":"info","message":"district name:Deoria block name:Bankata SC name: Men Center hmis code397820 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.472Z"}
+{"level":"info","message":"district name:Jaunpur block name:Dharampur SC name: Hauj hmis code330033 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.497Z"}
+{"level":"info","message":"district name:Jaunpur block name:Jalalpur SC name: Manahan hmis code330071 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.498Z"}
+{"level":"info","message":"district name:Jaunpur block name:Jalalpur SC name: Sirkoni hmis code330070 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.499Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: husepur hmis code330298 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.504Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: kotwalpur hmis code330299 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.504Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: Rajepur hmis code330296 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.504Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: shivpur hmis code330297 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.504Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: sehmalpur hmis code330300 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.505Z"}
+{"level":"info","message":"district name:Jaunpur block name:Sikrara SC name: Kuddupur hmis code330362 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.506Z"}
+{"level":"info","message":"district name:Jaunpur block name:Sikrara SC name: Nevada hmis code330380 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.506Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Dashwtpur hmis code332117 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.521Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Matethu 1st hmis code332119 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.521Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Matethu 2nd hmis code332120 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.521Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Newada hmis code332118 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.521Z"}
+{"level":"info","message":"200","timestamp":"2020-11-25T06:29:35.585Z"}
+{"level":"info","message":"1 BCPM 2020-21-11","timestamp":"2020-11-25T06:29:35.680Z"}
+{"level":"info","message":"district name:Moradabad block name:Bilari SC name: Berni hmis code422086 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.716Z"}
+{"level":"info","message":"district name:Moradabad block name:Bilari SC name: Reeth hmis code428103 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.717Z"}
+{"level":"info","message":"district name:Meerut block name:Merut SC name: Partapur hmis code331326 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.739Z"}
+{"level":"info","message":"district name:Agra block name:Etmadpur SC name: Etmadpur hmis code410555 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.766Z"}
+{"level":"info","message":"district name:Budaun block name:Salarpur SC name: Binawar 2 hmis code381541 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.790Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: Harunagla hmis code400203 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.793Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: Nagaria Parikshit hmis code400223 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.793Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: Peer Bahoda hmis code400215 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.793Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: joginawada hmis code400214 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.793Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: vidholiya hmis code397976 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.795Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: saidpur hakans hmis code397977 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.795Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: mahelau hmis code397974 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.795Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: joharpur hmis code397969 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.795Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: faridapur hmis code397975 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.795Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: Sithora hmis code397965 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.795Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Bhauli hmis code395915 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.838Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Kamlabad badhauli hmis code422520 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.838Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Kotawa hmis code396235 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.838Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Mampur hmis code395906 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.838Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Rudahi hmis code395912 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.838Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Saragpur saraiyya hmis code422521 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.839Z"}
+{"level":"info","message":"district name:Lucknow block name:Chinhat SC name: Maleshemau  hmis code391662 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.839Z"}
+{"level":"info","message":"district name:Rae Bareli block name:Dih SC name: NPHC Parshadepur  hmis code452658 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.850Z"}
+{"level":"info","message":"district name:Hamirpur block name:Sarila SC name: Sarila hmis code465945 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.901Z"}
+{"level":"info","message":"district name:Hamirpur block name:Sarila SC name: Rahatiya hmis code465946 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.902Z"}
+{"level":"info","message":"district name:Pratapgarh block name:Baba Belkharnath SC name: Dilippur hmis code431714 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.917Z"}
+{"level":"info","message":"district name:Pratapgarh block name:Vihar SC name: Kashipur hmis code464548 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.925Z"}
+{"level":"info","message":"district name:Faizabad block name:Amaniganj SC name: Khandasa hmis code399552 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.941Z"}
+{"level":"info","message":"district name:Faizabad block name:Mavai SC name: Mawai Gird hmis code410619 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.942Z"}
+{"level":"info","message":"district name:Faizabad block name:Maya Bazar SC name: Maincenter  hmis code410612 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.942Z"}
+{"level":"info","message":"district name:Faizabad block name:Tarun SC name: Panbhariya hmis code399562 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.945Z"}
+{"level":"info","message":"district name:Bahraich block name:Mahasi SC name: phc mahsi hmis code402732 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.957Z"}
+{"level":"info","message":"district name:Shrawasti block name:Jamunaha SC name: Dandekuiya hmis code332219 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.960Z"}
+{"level":"info","message":"district name:Gonda block name:Jhanjhari SC name: Pant Nagar hmis code400339 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.968Z"}
+{"level":"info","message":"district name:Gonda block name:Jhanjhari SC name: Ram Nagar Tarher hmis code399388 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.968Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Bagulhawa hmis code404934 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.973Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Chatahri hmis code404935 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.973Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Khunuwa Bazar hmis code404932 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.973Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Luchiya hmis code404933 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.973Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Madrahna Junebi hmis code404931 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.973Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Mahmoodwa Grand hmis code404936 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.973Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Matha Bazzar hmis code404937 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.973Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Gaura Bazar hmis code404908 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.973Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name:  ramvapur Majhariya hmis code404927 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.973Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Palta Devi hmis code404926 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.974Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Pipry hmis code404485 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.974Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Chliya hmis code404776 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.974Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Dattpur hmis code404775 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.974Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Gadakul hmis code404773 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.974Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Ramwapur hmis code404774 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.974Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Shohratgarh hmis code404772 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.974Z"}
+{"level":"info","message":"district name:Kushinagar block name:Dudhahi SC name: Piprahi hmis code404957 orgUnit not Mapped","timestamp":"2020-11-25T06:29:35.999Z"}
+{"level":"info","message":"district name:Kushinagar block name:Khadda SC name: main center 2 hmis code403641 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.002Z"}
+{"level":"info","message":"district name:Kushinagar block name:Khadda SC name: MAIN CENTER 1 hmis code403639 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.002Z"}
+{"level":"info","message":"district name:Kushinagar block name:Padrauna SC name: Main Center hmis code405133 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.003Z"}
+{"level":"info","message":"district name:Kushinagar block name:Ramkola SC name: ramkola A1 hmis code404623 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.003Z"}
+{"level":"info","message":"district name:Kushinagar block name:Ramkola SC name: ramkola A2 hmis code404622 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.003Z"}
+{"level":"info","message":"district name:Kushinagar block name:Ramkola SC name: Ramkola B hmis code404621 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.003Z"}
+{"level":"info","message":"district name:Kushinagar block name:Vishunpura SC name: Main Center hmis code403987 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.004Z"}
+{"level":"info","message":"district name:Deoria block name:Bankata SC name: Men Center hmis code397820 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.005Z"}
+{"level":"info","message":"district name:Jaunpur block name:Dharampur SC name: Hauj hmis code330033 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.025Z"}
+{"level":"info","message":"district name:Jaunpur block name:Jalalpur SC name: Manahan hmis code330071 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.026Z"}
+{"level":"info","message":"district name:Jaunpur block name:Jalalpur SC name: Sirkoni hmis code330070 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.026Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: husepur hmis code330298 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.031Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: kotwalpur hmis code330299 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.032Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: Rajepur hmis code330296 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.032Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: shivpur hmis code330297 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.032Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: sehmalpur hmis code330300 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.032Z"}
+{"level":"info","message":"district name:Jaunpur block name:Sikrara SC name: Kuddupur hmis code330362 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.034Z"}
+{"level":"info","message":"district name:Jaunpur block name:Sikrara SC name: Nevada hmis code330380 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.034Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Dashwtpur hmis code332117 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.050Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Matethu 1st hmis code332119 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.050Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Matethu 2nd hmis code332120 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.050Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Newada hmis code332118 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.050Z"}
+{"level":"info","message":"200","timestamp":"2020-11-25T06:29:36.102Z"}
+{"level":"info","message":"1 BCPM 2020-21-11","timestamp":"2020-11-25T06:29:36.222Z"}
+{"level":"info","message":"district name:Moradabad block name:Bilari SC name: Berni hmis code422086 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.239Z"}
+{"level":"info","message":"district name:Moradabad block name:Bilari SC name: Reeth hmis code428103 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.239Z"}
+{"level":"info","message":"district name:Meerut block name:Merut SC name: Partapur hmis code331326 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.250Z"}
+{"level":"info","message":"district name:Agra block name:Etmadpur SC name: Etmadpur hmis code410555 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.272Z"}
+{"level":"info","message":"district name:Budaun block name:Salarpur SC name: Binawar 2 hmis code381541 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.287Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: Harunagla hmis code400203 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.290Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: Nagaria Parikshit hmis code400223 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.290Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: Peer Bahoda hmis code400215 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.290Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: joginawada hmis code400214 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.290Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: vidholiya hmis code397976 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.291Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: saidpur hakans hmis code397977 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.291Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: mahelau hmis code397974 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.291Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: joharpur hmis code397969 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.291Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: faridapur hmis code397975 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.291Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: Sithora hmis code397965 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.291Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Bhauli hmis code395915 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.323Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Kamlabad badhauli hmis code422520 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.323Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Kotawa hmis code396235 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.323Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Mampur hmis code395906 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.323Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Rudahi hmis code395912 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.323Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Saragpur saraiyya hmis code422521 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.323Z"}
+{"level":"info","message":"district name:Lucknow block name:Chinhat SC name: Maleshemau  hmis code391662 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.323Z"}
+{"level":"info","message":"district name:Rae Bareli block name:Dih SC name: NPHC Parshadepur  hmis code452658 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.330Z"}
+{"level":"info","message":"district name:Hamirpur block name:Sarila SC name: Sarila hmis code465945 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.377Z"}
+{"level":"info","message":"district name:Hamirpur block name:Sarila SC name: Rahatiya hmis code465946 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.377Z"}
+{"level":"info","message":"district name:Pratapgarh block name:Baba Belkharnath SC name: Dilippur hmis code431714 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.389Z"}
+{"level":"info","message":"district name:Pratapgarh block name:Vihar SC name: Kashipur hmis code464548 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.392Z"}
+{"level":"info","message":"district name:Faizabad block name:Amaniganj SC name: Khandasa hmis code399552 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.409Z"}
+{"level":"info","message":"district name:Faizabad block name:Mavai SC name: Mawai Gird hmis code410619 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.411Z"}
+{"level":"info","message":"district name:Faizabad block name:Maya Bazar SC name: Maincenter  hmis code410612 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.412Z"}
+{"level":"info","message":"district name:Faizabad block name:Tarun SC name: Panbhariya hmis code399562 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.416Z"}
+{"level":"info","message":"district name:Bahraich block name:Mahasi SC name: phc mahsi hmis code402732 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.425Z"}
+{"level":"info","message":"district name:Shrawasti block name:Jamunaha SC name: Dandekuiya hmis code332219 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.429Z"}
+{"level":"info","message":"district name:Gonda block name:Jhanjhari SC name: Pant Nagar hmis code400339 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.434Z"}
+{"level":"info","message":"district name:Gonda block name:Jhanjhari SC name: Ram Nagar Tarher hmis code399388 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.434Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Bagulhawa hmis code404934 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.439Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Chatahri hmis code404935 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.439Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Khunuwa Bazar hmis code404932 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.439Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Luchiya hmis code404933 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.439Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Madrahna Junebi hmis code404931 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.439Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Mahmoodwa Grand hmis code404936 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.439Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Matha Bazzar hmis code404937 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.439Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Gaura Bazar hmis code404908 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.439Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name:  ramvapur Majhariya hmis code404927 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.439Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Palta Devi hmis code404926 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.439Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Pipry hmis code404485 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.439Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Chliya hmis code404776 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.439Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Dattpur hmis code404775 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.439Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Gadakul hmis code404773 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.440Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Ramwapur hmis code404774 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.440Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Shohratgarh hmis code404772 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.440Z"}
+{"level":"info","message":"district name:Kushinagar block name:Dudhahi SC name: Piprahi hmis code404957 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.464Z"}
+{"level":"info","message":"district name:Kushinagar block name:Khadda SC name: main center 2 hmis code403641 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.466Z"}
+{"level":"info","message":"district name:Kushinagar block name:Khadda SC name: MAIN CENTER 1 hmis code403639 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.466Z"}
+{"level":"info","message":"district name:Kushinagar block name:Padrauna SC name: Main Center hmis code405133 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.467Z"}
+{"level":"info","message":"district name:Kushinagar block name:Ramkola SC name: ramkola A1 hmis code404623 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.468Z"}
+{"level":"info","message":"district name:Kushinagar block name:Ramkola SC name: ramkola A2 hmis code404622 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.468Z"}
+{"level":"info","message":"district name:Kushinagar block name:Ramkola SC name: Ramkola B hmis code404621 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.468Z"}
+{"level":"info","message":"district name:Kushinagar block name:Vishunpura SC name: Main Center hmis code403987 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.469Z"}
+{"level":"info","message":"district name:Deoria block name:Bankata SC name: Men Center hmis code397820 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.470Z"}
+{"level":"info","message":"district name:Jaunpur block name:Dharampur SC name: Hauj hmis code330033 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.493Z"}
+{"level":"info","message":"district name:Jaunpur block name:Jalalpur SC name: Manahan hmis code330071 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.494Z"}
+{"level":"info","message":"district name:Jaunpur block name:Jalalpur SC name: Sirkoni hmis code330070 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.495Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: husepur hmis code330298 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.498Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: kotwalpur hmis code330299 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.499Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: Rajepur hmis code330296 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.499Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: shivpur hmis code330297 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.499Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: sehmalpur hmis code330300 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.499Z"}
+{"level":"info","message":"district name:Jaunpur block name:Sikrara SC name: Kuddupur hmis code330362 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.501Z"}
+{"level":"info","message":"district name:Jaunpur block name:Sikrara SC name: Nevada hmis code330380 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.501Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Dashwtpur hmis code332117 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.515Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Matethu 1st hmis code332119 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.515Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Matethu 2nd hmis code332120 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.515Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Newada hmis code332118 orgUnit not Mapped","timestamp":"2020-11-25T06:29:36.515Z"}
+{"level":"info","message":" undefined","timestamp":"2020-11-25T06:29:38.024Z"}
+{"level":"info","message":" undefined","timestamp":"2020-11-25T06:29:38.279Z"}
+{"level":"info","message":" undefined","timestamp":"2020-11-25T06:29:38.325Z"}
+{"level":"info","message":" undefined","timestamp":"2020-11-25T06:29:38.744Z"}
+{"level":"info","message":" undefined","timestamp":"2020-11-25T06:29:38.848Z"}
+{"level":"info","message":"200","timestamp":"2020-11-25T06:29:47.891Z"}
+{"level":"info","message":"1 BCPM 2020-21-11","timestamp":"2020-11-25T06:29:47.985Z"}
+{"level":"info","message":"district name:Moradabad block name:Bilari SC name: Berni hmis code422086 orgUnit not Mapped","timestamp":"2020-11-25T06:29:47.999Z"}
+{"level":"info","message":"district name:Moradabad block name:Bilari SC name: Reeth hmis code428103 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.000Z"}
+{"level":"info","message":"district name:Meerut block name:Merut SC name: Partapur hmis code331326 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.011Z"}
+{"level":"info","message":"district name:Agra block name:Etmadpur SC name: Etmadpur hmis code410555 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.036Z"}
+{"level":"info","message":"district name:Budaun block name:Salarpur SC name: Binawar 2 hmis code381541 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.047Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: Harunagla hmis code400203 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.051Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: Nagaria Parikshit hmis code400223 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.051Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: Peer Bahoda hmis code400215 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.051Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: joginawada hmis code400214 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.052Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: vidholiya hmis code397976 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.055Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: saidpur hakans hmis code397977 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.055Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: mahelau hmis code397974 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.055Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: joharpur hmis code397969 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.055Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: faridapur hmis code397975 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.055Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: Sithora hmis code397965 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.055Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Bhauli hmis code395915 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.087Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Kamlabad badhauli hmis code422520 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.088Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Kotawa hmis code396235 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.088Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Mampur hmis code395906 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.088Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Rudahi hmis code395912 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.088Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Saragpur saraiyya hmis code422521 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.088Z"}
+{"level":"info","message":"district name:Lucknow block name:Chinhat SC name: Maleshemau  hmis code391662 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.088Z"}
+{"level":"info","message":"district name:Rae Bareli block name:Dih SC name: NPHC Parshadepur  hmis code452658 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.092Z"}
+{"level":"info","message":"district name:Hamirpur block name:Sarila SC name: Sarila hmis code465945 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.126Z"}
+{"level":"info","message":"district name:Hamirpur block name:Sarila SC name: Rahatiya hmis code465946 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.127Z"}
+{"level":"info","message":"district name:Pratapgarh block name:Baba Belkharnath SC name: Dilippur hmis code431714 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.142Z"}
+{"level":"info","message":"district name:Pratapgarh block name:Vihar SC name: Kashipur hmis code464548 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.149Z"}
+{"level":"info","message":"district name:Faizabad block name:Amaniganj SC name: Khandasa hmis code399552 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.173Z"}
+{"level":"info","message":"district name:Faizabad block name:Mavai SC name: Mawai Gird hmis code410619 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.174Z"}
+{"level":"info","message":"district name:Faizabad block name:Maya Bazar SC name: Maincenter  hmis code410612 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.175Z"}
+{"level":"info","message":"district name:Faizabad block name:Tarun SC name: Panbhariya hmis code399562 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.178Z"}
+{"level":"info","message":"district name:Bahraich block name:Mahasi SC name: phc mahsi hmis code402732 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.190Z"}
+{"level":"info","message":"district name:Shrawasti block name:Jamunaha SC name: Dandekuiya hmis code332219 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.193Z"}
+{"level":"info","message":"district name:Gonda block name:Jhanjhari SC name: Pant Nagar hmis code400339 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.202Z"}
+{"level":"info","message":"district name:Gonda block name:Jhanjhari SC name: Ram Nagar Tarher hmis code399388 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.202Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Bagulhawa hmis code404934 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.207Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Chatahri hmis code404935 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.207Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Khunuwa Bazar hmis code404932 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.207Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Luchiya hmis code404933 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.207Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Madrahna Junebi hmis code404931 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.207Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Mahmoodwa Grand hmis code404936 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.207Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Matha Bazzar hmis code404937 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.207Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Gaura Bazar hmis code404908 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.207Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name:  ramvapur Majhariya hmis code404927 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.208Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Palta Devi hmis code404926 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.208Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Pipry hmis code404485 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.208Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Chliya hmis code404776 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.208Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Dattpur hmis code404775 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.208Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Gadakul hmis code404773 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.208Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Ramwapur hmis code404774 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.208Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Shohratgarh hmis code404772 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.208Z"}
+{"level":"info","message":"district name:Kushinagar block name:Dudhahi SC name: Piprahi hmis code404957 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.230Z"}
+{"level":"info","message":"district name:Kushinagar block name:Khadda SC name: main center 2 hmis code403641 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.233Z"}
+{"level":"info","message":"district name:Kushinagar block name:Khadda SC name: MAIN CENTER 1 hmis code403639 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.233Z"}
+{"level":"info","message":"district name:Kushinagar block name:Padrauna SC name: Main Center hmis code405133 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.235Z"}
+{"level":"info","message":"district name:Kushinagar block name:Ramkola SC name: ramkola A1 hmis code404623 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.235Z"}
+{"level":"info","message":"district name:Kushinagar block name:Ramkola SC name: ramkola A2 hmis code404622 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.236Z"}
+{"level":"info","message":"district name:Kushinagar block name:Ramkola SC name: Ramkola B hmis code404621 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.236Z"}
+{"level":"info","message":"district name:Kushinagar block name:Vishunpura SC name: Main Center hmis code403987 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.237Z"}
+{"level":"info","message":"district name:Deoria block name:Bankata SC name: Men Center hmis code397820 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.237Z"}
+{"level":"info","message":"district name:Jaunpur block name:Dharampur SC name: Hauj hmis code330033 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.261Z"}
+{"level":"info","message":"district name:Jaunpur block name:Jalalpur SC name: Manahan hmis code330071 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.262Z"}
+{"level":"info","message":"district name:Jaunpur block name:Jalalpur SC name: Sirkoni hmis code330070 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.262Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: husepur hmis code330298 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.265Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: kotwalpur hmis code330299 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.265Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: Rajepur hmis code330296 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.266Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: shivpur hmis code330297 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.266Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: sehmalpur hmis code330300 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.266Z"}
+{"level":"info","message":"district name:Jaunpur block name:Sikrara SC name: Kuddupur hmis code330362 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.267Z"}
+{"level":"info","message":"district name:Jaunpur block name:Sikrara SC name: Nevada hmis code330380 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.267Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Dashwtpur hmis code332117 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.288Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Matethu 1st hmis code332119 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.288Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Matethu 2nd hmis code332120 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.288Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Newada hmis code332118 orgUnit not Mapped","timestamp":"2020-11-25T06:29:48.288Z"}
+{"level":"info","message":"200","timestamp":"2020-11-25T06:29:49.971Z"}
+{"level":"info","message":"1 BCPM 2020-21-11","timestamp":"2020-11-25T06:29:50.063Z"}
+{"level":"info","message":"district name:Moradabad block name:Bilari SC name: Berni hmis code422086 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.078Z"}
+{"level":"info","message":"district name:Moradabad block name:Bilari SC name: Reeth hmis code428103 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.078Z"}
+{"level":"info","message":"district name:Meerut block name:Merut SC name: Partapur hmis code331326 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.087Z"}
+{"level":"info","message":"district name:Agra block name:Etmadpur SC name: Etmadpur hmis code410555 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.114Z"}
+{"level":"info","message":"district name:Budaun block name:Salarpur SC name: Binawar 2 hmis code381541 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.125Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: Harunagla hmis code400203 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.129Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: Nagaria Parikshit hmis code400223 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.130Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: Peer Bahoda hmis code400215 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.130Z"}
+{"level":"info","message":"district name:Bareilly block name:Bithrichainpur SC name: joginawada hmis code400214 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.131Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: vidholiya hmis code397976 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.132Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: saidpur hakans hmis code397977 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.132Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: mahelau hmis code397974 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.132Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: joharpur hmis code397969 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.132Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: faridapur hmis code397975 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.132Z"}
+{"level":"info","message":"district name:Bareilly block name:Kyara SC name: Sithora hmis code397965 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.132Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Bhauli hmis code395915 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.165Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Kamlabad badhauli hmis code422520 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.165Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Kotawa hmis code396235 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.165Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Mampur hmis code395906 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.166Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Rudahi hmis code395912 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.166Z"}
+{"level":"info","message":"district name:Lucknow block name:Bakshi-Ka-Talab SC name: Saragpur saraiyya hmis code422521 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.166Z"}
+{"level":"info","message":"district name:Lucknow block name:Chinhat SC name: Maleshemau  hmis code391662 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.166Z"}
+{"level":"info","message":"district name:Rae Bareli block name:Dih SC name: NPHC Parshadepur  hmis code452658 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.173Z"}
+{"level":"info","message":"district name:Hamirpur block name:Sarila SC name: Sarila hmis code465945 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.205Z"}
+{"level":"info","message":"district name:Hamirpur block name:Sarila SC name: Rahatiya hmis code465946 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.205Z"}
+{"level":"info","message":"district name:Pratapgarh block name:Baba Belkharnath SC name: Dilippur hmis code431714 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.216Z"}
+{"level":"info","message":"district name:Pratapgarh block name:Vihar SC name: Kashipur hmis code464548 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.219Z"}
+{"level":"info","message":"district name:Faizabad block name:Amaniganj SC name: Khandasa hmis code399552 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.235Z"}
+{"level":"info","message":"district name:Faizabad block name:Mavai SC name: Mawai Gird hmis code410619 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.236Z"}
+{"level":"info","message":"district name:Faizabad block name:Maya Bazar SC name: Maincenter  hmis code410612 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.237Z"}
+{"level":"info","message":"district name:Faizabad block name:Tarun SC name: Panbhariya hmis code399562 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.238Z"}
+{"level":"info","message":"district name:Bahraich block name:Mahasi SC name: phc mahsi hmis code402732 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.246Z"}
+{"level":"info","message":"district name:Shrawasti block name:Jamunaha SC name: Dandekuiya hmis code332219 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.251Z"}
+{"level":"info","message":"district name:Gonda block name:Jhanjhari SC name: Pant Nagar hmis code400339 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.257Z"}
+{"level":"info","message":"district name:Gonda block name:Jhanjhari SC name: Ram Nagar Tarher hmis code399388 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.257Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Bagulhawa hmis code404934 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.263Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Chatahri hmis code404935 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.263Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Khunuwa Bazar hmis code404932 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.263Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Luchiya hmis code404933 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.263Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Madrahna Junebi hmis code404931 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.263Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Mahmoodwa Grand hmis code404936 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.263Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Matha Bazzar hmis code404937 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.263Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Gaura Bazar hmis code404908 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.263Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name:  ramvapur Majhariya hmis code404927 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.264Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Palta Devi hmis code404926 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.264Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Pipry hmis code404485 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.264Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Chliya hmis code404776 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.264Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Dattpur hmis code404775 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.264Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Gadakul hmis code404773 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.264Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Ramwapur hmis code404774 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.264Z"}
+{"level":"info","message":"district name:Siddharth Nagar block name:Shoharatgarh SC name: Shohratgarh hmis code404772 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.264Z"}
+{"level":"info","message":"district name:Kushinagar block name:Dudhahi SC name: Piprahi hmis code404957 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.278Z"}
+{"level":"info","message":"district name:Kushinagar block name:Khadda SC name: main center 2 hmis code403641 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.281Z"}
+{"level":"info","message":"district name:Kushinagar block name:Khadda SC name: MAIN CENTER 1 hmis code403639 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.282Z"}
+{"level":"info","message":"district name:Kushinagar block name:Padrauna SC name: Main Center hmis code405133 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.283Z"}
+{"level":"info","message":"district name:Kushinagar block name:Ramkola SC name: ramkola A1 hmis code404623 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.284Z"}
+{"level":"info","message":"district name:Kushinagar block name:Ramkola SC name: ramkola A2 hmis code404622 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.284Z"}
+{"level":"info","message":"district name:Kushinagar block name:Ramkola SC name: Ramkola B hmis code404621 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.284Z"}
+{"level":"info","message":"district name:Kushinagar block name:Vishunpura SC name: Main Center hmis code403987 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.287Z"}
+{"level":"info","message":"district name:Deoria block name:Bankata SC name: Men Center hmis code397820 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.288Z"}
+{"level":"info","message":"district name:Jaunpur block name:Dharampur SC name: Hauj hmis code330033 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.307Z"}
+{"level":"info","message":"district name:Jaunpur block name:Jalalpur SC name: Manahan hmis code330071 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.307Z"}
+{"level":"info","message":"district name:Jaunpur block name:Jalalpur SC name: Sirkoni hmis code330070 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.308Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: husepur hmis code330298 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.312Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: kotwalpur hmis code330299 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.313Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: Rajepur hmis code330296 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.313Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: shivpur hmis code330297 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.313Z"}
+{"level":"info","message":"district name:Jaunpur block name:Muftiganj SC name: sehmalpur hmis code330300 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.313Z"}
+{"level":"info","message":"district name:Jaunpur block name:Sikrara SC name: Kuddupur hmis code330362 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.314Z"}
+{"level":"info","message":"district name:Jaunpur block name:Sikrara SC name: Nevada hmis code330380 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.315Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Dashwtpur hmis code332117 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.331Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Matethu 1st hmis code332119 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.331Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Matethu 2nd hmis code332120 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.331Z"}
+{"level":"info","message":"district name:Sant Ravidas Nagar(Bhadohi) block name:Gyanpur SC name: Newada hmis code332118 orgUnit not Mapped","timestamp":"2020-11-25T06:29:50.332Z"}
+{"level":"info","message":" {\"imported\":20190,\"updated\":0,\"ignored\":44,\"deleted\":0}","timestamp":"2020-11-25T06:29:55.217Z"}
+{"level":"info","message":" {\"imported\":20190,\"updated\":1,\"ignored\":43,\"deleted\":0}","timestamp":"2020-11-25T06:29:55.869Z"}
+{"level":"info","message":" {\"imported\":20190,\"updated\":1,\"ignored\":43,\"deleted\":0}","timestamp":"2020-11-25T06:29:58.511Z"}
+{"level":"info","message":" {\"imported\":20190,\"updated\":1,\"ignored\":43,\"deleted\":0}","timestamp":"2020-11-25T06:30:01.151Z"}
+{"level":"info","message":" {\"imported\":20190,\"updated\":0,\"ignored\":44,\"deleted\":0}","timestamp":"2020-11-25T06:30:01.918Z"}
+{"level":"info","message":"Moving for date[2020-11-25] ","timestamp":"2020-11-25T06:30:04.832Z"}
+{"level":"info","message":" {\"imported\":20190,\"updated\":1,\"ignored\":43,\"deleted\":0}","timestamp":"2020-11-25T06:30:05.757Z"}
+{"level":"info","message":" {\"imported\":20190,\"updated\":1,\"ignored\":43,\"deleted\":0}","timestamp":"2020-11-25T06:30:06.547Z"}
+{"level":"info","message":"[OUNOTMAP- 99920108 ]  Org Unit Not Mapped \t facility name is: Bahraich - District Hospital","timestamp":"2020-11-25T06:30:11.559Z"}
+{"level":"info","message":"[OUNOTMAP- 99920933 ]  Org Unit Not Mapped \t facility name is: Auraiya - District Combined Hospital","timestamp":"2020-11-25T06:30:11.560Z"}
+{"level":"info","message":"[OUNOTMAP- 99920934 ]  Org Unit Not Mapped \t facility name is: Bagpat - District Hospital","timestamp":"2020-11-25T06:30:11.560Z"}
+{"level":"info","message":"[OUNOTMAP- 99920937 ]  Org Unit Not Mapped \t facility name is: Ballia - District Hospital","timestamp":"2020-11-25T06:30:11.560Z"}
+{"level":"info","message":"[OUNOTMAP- 99920938 ]  Org Unit Not Mapped \t facility name is: Balrampur - District Combined Hospital","timestamp":"2020-11-25T06:30:11.560Z"}
+{"level":"info","message":"[OUNOTMAP- 99920939 ]  Org Unit Not Mapped \t facility name is: Balrampur - District Memeorial Hospital","timestamp":"2020-11-25T06:30:11.560Z"}
+{"level":"info","message":"[OUNOTMAP- 99920941 ]  Org Unit Not Mapped \t facility name is: Barabanki - District Hospital","timestamp":"2020-11-25T06:30:11.560Z"}
+{"level":"info","message":"[OUNOTMAP- 99920948 ]  Org Unit Not Mapped \t facility name is: Chandauli - Dist Combined Hospital Chakiya","timestamp":"2020-11-25T06:30:11.560Z"}
+{"level":"info","message":"[OUNOTMAP- 99920949 ]  Org Unit Not Mapped \t facility name is: Chandauli - Pt KPT District Combined Hospital","timestamp":"2020-11-25T06:30:11.560Z"}
+{"level":"info","message":"[OUNOTMAP- 99920951 ]  Org Unit Not Mapped \t facility name is: Ayodhya - District Hospital","timestamp":"2020-11-25T06:30:11.561Z"}
+{"level":"info","message":"[OUNOTMAP- 99920953 ]  Org Unit Not Mapped \t facility name is: Ayodhya - Sri Ram Ayodhya Hospital","timestamp":"2020-11-25T06:30:11.561Z"}
+{"level":"info","message":"[OUNOTMAP- 99920955 ]  Org Unit Not Mapped \t facility name is: Etah - District Hospital","timestamp":"2020-11-25T06:30:11.561Z"}
+{"level":"info","message":"[OUNOTMAP- 99920956 ]  Org Unit Not Mapped \t facility name is: Chitrakoot - District Combined Hospital","timestamp":"2020-11-25T06:30:11.561Z"}
+{"level":"info","message":"[OUNOTMAP- 99920958 ]  Org Unit Not Mapped \t facility name is: Farrukhabad - Dr Ram Manohar Lohiya Male","timestamp":"2020-11-25T06:30:11.561Z"}
+{"level":"info","message":"[OUNOTMAP- 99920961 ]  Org Unit Not Mapped \t facility name is: Deoria - District Hospital","timestamp":"2020-11-25T06:30:11.561Z"}
+{"level":"info","message":"[OUNOTMAP- 99920963 ]  Org Unit Not Mapped \t facility name is: Bareilly - Maharana Pratap Combined Hospital","timestamp":"2020-11-25T06:30:11.561Z"}
+{"level":"info","message":"[OUNOTMAP- 99920964 ]  Org Unit Not Mapped \t facility name is: Bulandshahar - BBD Govt Hospital","timestamp":"2020-11-25T06:30:11.561Z"}
+{"level":"info","message":"[OUNOTMAP- 99920969 ]  Org Unit Not Mapped \t facility name is: Bijnor - Pt Deendayal Upadyaya Dist Comb Hosp","timestamp":"2020-11-25T06:30:11.561Z"}
+{"level":"info","message":"[OUNOTMAP- 99920971 ]  Org Unit Not Mapped \t facility name is: Basti - District Hospital","timestamp":"2020-11-25T06:30:11.561Z"}
+{"level":"info","message":"[OUNOTMAP- 99920973 ]  Org Unit Not Mapped \t facility name is: Basti - Opec Hospital Kaily","timestamp":"2020-11-25T06:30:11.561Z"}
+{"level":"info","message":"[OUNOTMAP- 99920974 ]  Org Unit Not Mapped \t facility name is: Jaunpur - ASU Singh District Hospital","timestamp":"2020-11-25T06:30:11.562Z"}
+{"level":"info","message":"[OUNOTMAP- 99920976 ]  Org Unit Not Mapped \t facility name is: Amroha - District Combined Hospital","timestamp":"2020-11-25T06:30:11.562Z"}
+{"level":"info","message":"[OUNOTMAP- 99920977 ]  Org Unit Not Mapped \t facility name is: Hardoi - District Hospital","timestamp":"2020-11-25T06:30:11.562Z"}
+{"level":"info","message":"[OUNOTMAP- 99920979 ]  Org Unit Not Mapped \t facility name is: Jalaun - District Hospital","timestamp":"2020-11-25T06:30:11.562Z"}
+{"level":"info","message":"[OUNOTMAP- 99920982 ]  Org Unit Not Mapped \t facility name is: Jhansi - District Hospital","timestamp":"2020-11-25T06:30:11.562Z"}
+{"level":"info","message":"[OUNOTMAP- 99920985 ]  Org Unit Not Mapped \t facility name is: Hathras - Bagala Male District Hospital","timestamp":"2020-11-25T06:30:11.562Z"}
+{"level":"info","message":"[OUNOTMAP- 99920988 ]  Org Unit Not Mapped \t facility name is: Gorakhpur - Neta Ji Subhash Chandra Bose Dist Hosp","timestamp":"2020-11-25T06:30:11.562Z"}
+{"level":"info","message":"[OUNOTMAP- 99920990 ]  Org Unit Not Mapped \t facility name is: Ghazipur - District Hospital","timestamp":"2020-11-25T06:30:11.562Z"}
+{"level":"info","message":"[OUNOTMAP- 99920992 ]  Org Unit Not Mapped \t facility name is: Hamirpur -Diwan Shatrughan Singh Combined Hospital","timestamp":"2020-11-25T06:30:11.562Z"}
+{"level":"info","message":"[OUNOTMAP- 99920993 ]  Org Unit Not Mapped \t facility name is: Firozabad - District Combined Hospital Shikohabad","timestamp":"2020-11-25T06:30:11.562Z"}
+{"level":"info","message":"[OUNOTMAP- 99920994 ]  Org Unit Not Mapped \t facility name is: Firozabad - SNM Hospital and T.B. Ashram","timestamp":"2020-11-25T06:30:11.562Z"}
+{"level":"info","message":"[OUNOTMAP- 99920998 ]  Org Unit Not Mapped \t facility name is: Gautam Buddha Nagar - Dist Combind Hospital","timestamp":"2020-11-25T06:30:11.562Z"}
+{"level":"info","message":"[OUNOTMAP- 99920999 ]  Org Unit Not Mapped \t facility name is: Ghaziabad - District Combind Hospital Sanjay Nagar","timestamp":"2020-11-25T06:30:11.562Z"}
+{"level":"info","message":"[OUNOTMAP- 99921000 ]  Org Unit Not Mapped \t facility name is: Ghaziabad - District MMG Hospital","timestamp":"2020-11-25T06:30:11.562Z"}
+{"level":"info","message":"[OUNOTMAP- 99921002 ]  Org Unit Not Mapped \t facility name is: Gonda - District Hospital","timestamp":"2020-11-25T06:30:11.563Z"}
+{"level":"info","message":"[OUNOTMAP- 99921004 ]  Org Unit Not Mapped \t facility name is: Lucknow - Balrampur Hospital","timestamp":"2020-11-25T06:30:11.563Z"}
+{"level":"info","message":"[OUNOTMAP- 99921005 ]  Org Unit Not Mapped \t facility name is: Lucknow - Shyama Prasad Mukherjee Hospital","timestamp":"2020-11-25T06:30:11.563Z"}
+{"level":"info","message":"[OUNOTMAP- 99921007 ]  Org Unit Not Mapped \t facility name is: Maharajganj - District Combined Hospital","timestamp":"2020-11-25T06:30:11.563Z"}
+{"level":"info","message":"[OUNOTMAP- 99921009 ]  Org Unit Not Mapped \t facility name is: Mainpuri - District Hospital","timestamp":"2020-11-25T06:30:11.563Z"}
+{"level":"info","message":"[OUNOTMAP- 99921019 ]  Org Unit Not Mapped \t facility name is: Lucknow - Bhau Rao Devras Hospital Mahanagar","timestamp":"2020-11-25T06:30:11.563Z"}
+{"level":"info","message":"[OUNOTMAP- 99921021 ]  Org Unit Not Mapped \t facility name is: Lucknow - Lokbandhu Raj Narain Combined Hospital","timestamp":"2020-11-25T06:30:11.563Z"}
+{"level":"info","message":"[OUNOTMAP- 99921023 ]  Org Unit Not Mapped \t facility name is: Lucknow - Ram Manohar Lohiya Hospital","timestamp":"2020-11-25T06:30:11.563Z"}
+{"level":"info","message":"[OUNOTMAP- 99921024 ]  Org Unit Not Mapped \t facility name is: Lucknow - RLB Combined Hospital Rajajipuram","timestamp":"2020-11-25T06:30:11.563Z"}
+{"level":"info","message":"[OUNOTMAP- 99921025 ]  Org Unit Not Mapped \t facility name is: Mathura - District Combined Hospital Vrindavan","timestamp":"2020-11-25T06:30:11.563Z"}
+{"level":"info","message":"[OUNOTMAP- 99921026 ]  Org Unit Not Mapped \t facility name is: Mathura - District Hospital","timestamp":"2020-11-25T06:30:11.563Z"}
+{"level":"info","message":"[OUNOTMAP- 99921029 ]  Org Unit Not Mapped \t facility name is: Meerut - PL Sharma Hospital","timestamp":"2020-11-25T06:30:11.563Z"}
+{"level":"info","message":"[OUNOTMAP- 99921031 ]  Org Unit Not Mapped \t facility name is: Mahoba - District Hospital","timestamp":"2020-11-25T06:30:11.563Z"}
+{"level":"info","message":"[OUNOTMAP- 99921036 ]  Org Unit Not Mapped \t facility name is: Lalitpur - Manyawar Kanshiram Combined Hospital","timestamp":"2020-11-25T06:30:11.563Z"}
+{"level":"info","message":"[OUNOTMAP- 99921038 ]  Org Unit Not Mapped \t facility name is: Kushinagar - District Combined Hospital","timestamp":"2020-11-25T06:30:11.564Z"}
+{"level":"info","message":"[OUNOTMAP- 99921039 ]  Org Unit Not Mapped \t facility name is: Kaushambi - District Combined Hospital","timestamp":"2020-11-25T06:30:11.564Z"}
+{"level":"info","message":"[OUNOTMAP- 99921040 ]  Org Unit Not Mapped \t facility name is: Kannauj - District Combind Hospital","timestamp":"2020-11-25T06:30:11.564Z"}
+{"level":"info","message":"[OUNOTMAP- 99921042 ]  Org Unit Not Mapped \t facility name is: Kanpur Dehat - District Hospital","timestamp":"2020-11-25T06:30:11.564Z"}
+{"level":"info","message":"[OUNOTMAP- 99921045 ]  Org Unit Not Mapped \t facility name is: Kanpur Nagar - KPM Hospital","timestamp":"2020-11-25T06:30:11.564Z"}
+{"level":"info","message":"[OUNOTMAP- 99921046 ]  Org Unit Not Mapped \t facility name is: Kanpur Nagar - Manyawar Kanshiram Comb Hospital","timestamp":"2020-11-25T06:30:11.564Z"}
+{"level":"info","message":"[OUNOTMAP- 99921047 ]  Org Unit Not Mapped \t facility name is: Kanpur Nagar - UHM Male Hospital","timestamp":"2020-11-25T06:30:11.564Z"}
+{"level":"info","message":"[OUNOTMAP- 99921049 ]  Org Unit Not Mapped \t facility name is: Lakhimpur Kheri - District Hospital","timestamp":"2020-11-25T06:30:11.564Z"}
+{"level":"info","message":"[OUNOTMAP- 99921051 ]  Org Unit Not Mapped \t facility name is: Sitapur - District Hospital","timestamp":"2020-11-25T06:30:11.564Z"}
+{"level":"info","message":"[OUNOTMAP- 99921052 ]  Org Unit Not Mapped \t facility name is: Sambhal - District Combind Hospital","timestamp":"2020-11-25T06:30:11.564Z"}
+{"level":"info","message":"[OUNOTMAP- 99921053 ]  Org Unit Not Mapped \t facility name is: Shrawasti - District Combind Hospital","timestamp":"2020-11-25T06:30:11.564Z"}
+{"level":"info","message":"[OUNOTMAP- 99921054 ]  Org Unit Not Mapped \t facility name is: Sant Ravidas Nagar - Maharaja Balavant Singh Hosp","timestamp":"2020-11-25T06:30:11.564Z"}
+{"level":"info","message":"[OUNOTMAP- 99921055 ]  Org Unit Not Mapped \t facility name is: Sant Ravidas Nagar - MCS District Hospital Gyanpur","timestamp":"2020-11-25T06:30:11.564Z"}
+{"level":"info","message":"[OUNOTMAP- 99921056 ]  Org Unit Not Mapped \t facility name is: Shahjahanpur - District Hospital","timestamp":"2020-11-25T06:30:11.564Z"}
+{"level":"info","message":"[OUNOTMAP- 99921058 ]  Org Unit Not Mapped \t facility name is: Saharanpur - SBD District Hospital","timestamp":"2020-11-25T06:30:11.564Z"}
+{"level":"info","message":"[OUNOTMAP- 99921060 ]  Org Unit Not Mapped \t facility name is: Siddharth Nagar - District Combined Hospital","timestamp":"2020-11-25T06:30:11.565Z"}
+{"level":"info","message":"[OUNOTMAP- 99921061 ]  Org Unit Not Mapped \t facility name is: Sant Kabir Nagar - District Combined Hospital","timestamp":"2020-11-25T06:30:11.565Z"}
+{"level":"info","message":"[OUNOTMAP- 99921064 ]  Org Unit Not Mapped \t facility name is: Muzaffarnagar - Swami Kalyan Dev Dist Hospital","timestamp":"2020-11-25T06:30:11.565Z"}
+{"level":"info","message":"[OUNOTMAP- 99921065 ]  Org Unit Not Mapped \t facility name is: Rampur - District Hospital","timestamp":"2020-11-25T06:30:11.565Z"}
+{"level":"info","message":"[OUNOTMAP- 99921067 ]  Org Unit Not Mapped \t facility name is: Pilibhit - District Hospital","timestamp":"2020-11-25T06:30:11.565Z"}
+{"level":"info","message":"[OUNOTMAP- 99921069 ]  Org Unit Not Mapped \t facility name is: Moradabad - District Hospital","timestamp":"2020-11-25T06:30:11.565Z"}
+{"level":"info","message":"[OUNOTMAP- 99921070 ]  Org Unit Not Mapped \t facility name is: Raebareli - District Hospital","timestamp":"2020-11-25T06:30:11.565Z"}
+{"level":"info","message":"[OUNOTMAP- 99921078 ]  Org Unit Not Mapped \t facility name is: Varanasi - SSPG Div Dist Hospital","timestamp":"2020-11-25T06:30:11.565Z"}
+{"level":"info","message":"[OUNOTMAP- 99921080 ]  Org Unit Not Mapped \t facility name is: Varanasi - LBS Hospital Ramnagar","timestamp":"2020-11-25T06:30:11.565Z"}
+{"level":"info","message":"[OUNOTMAP- 99921081 ]  Org Unit Not Mapped \t facility name is: Varanasi - Pt Deen Dayal Upadhyay Govt Hospital","timestamp":"2020-11-25T06:30:11.565Z"}
+{"level":"info","message":"[OUNOTMAP- 99921082 ]  Org Unit Not Mapped \t facility name is: Unnao - Uma Shankar District Hospital","timestamp":"2020-11-25T06:30:11.565Z"}
+{"level":"info","message":"[OUNOTMAP- 99921126 ]  Org Unit Not Mapped \t facility name is: Aligarh - Pt Deen Dayal District Combined Hospital","timestamp":"2020-11-25T06:30:11.565Z"}
+{"level":"info","message":"[OUNOTMAP- 99921129 ]  Org Unit Not Mapped \t facility name is: Prayagraj - Manohar Das Eye Hospital","timestamp":"2020-11-25T06:30:11.565Z"}
+{"level":"info","message":"[OUNOTMAP- 99921130 ]  Org Unit Not Mapped \t facility name is: Prayagraj - Moti Lal Nehru District Hospital","timestamp":"2020-11-25T06:30:11.565Z"}
+{"level":"info","message":"[OUNOTMAP- 99921132 ]  Org Unit Not Mapped \t facility name is: Prayagraj - Tej Bahadur Sapru District Hospital","timestamp":"2020-11-25T06:30:11.566Z"}
+{"level":"info","message":"[OUNOTMAP- 99921133 ]  Org Unit Not Mapped \t facility name is: Ambedkar Nagar - District Combined Hospital","timestamp":"2020-11-25T06:30:11.566Z"}
+{"level":"info","message":"[OUNOTMAP- 99921134 ]  Org Unit Not Mapped \t facility name is: Azamgarh - District Hospital","timestamp":"2020-11-25T06:30:11.566Z"}
+{"level":"info","message":"[OUNOTMAP- 99924971 ]  Org Unit Not Mapped \t facility name is: Agra - District Hospital","timestamp":"2020-11-25T06:30:11.566Z"}
+{"level":"info","message":"[OUNOTMAP- 99924974 ]  Org Unit Not Mapped \t facility name is: Aligarh - Malkhan Singh District Hospital","timestamp":"2020-11-25T06:30:11.566Z"}
+{"level":"info","message":"[OUNOTMAP- 99929060 ]  Org Unit Not Mapped \t facility name is: Ayodhya - 100 bed Dist Combined Hosp Darshan Nagar","timestamp":"2020-11-25T06:30:11.566Z"}
+{"level":"info","message":"[OUNOTMAP- 99929063 ]  Org Unit Not Mapped \t facility name is: Banda - District Hospital","timestamp":"2020-11-25T06:30:11.566Z"}
+{"level":"info","message":"[OUNOTMAP- 99929064 ]  Org Unit Not Mapped \t facility name is: Lucknow - 100 beded Ramsagar Mishra Combined Hosp","timestamp":"2020-11-25T06:30:11.566Z"}
+{"level":"info","message":"[OUNOTMAP- 99929065 ]  Org Unit Not Mapped \t facility name is: Budaun - District Hospital","timestamp":"2020-11-25T06:30:11.566Z"}
+{"level":"info","message":"[OUNOTMAP- 99929069 ]  Org Unit Not Mapped \t facility name is: Sultanpur - District Hospital","timestamp":"2020-11-25T06:30:11.566Z"}
+{"level":"info","message":"[OUNOTMAP- 99929070 ]  Org Unit Not Mapped \t facility name is: Auraiya - 100 beded District Hospital","timestamp":"2020-11-25T06:30:11.566Z"}
+{"level":"info","message":"[OUNOTMAP- 99929071 ]  Org Unit Not Mapped \t facility name is: Barabanki - 100 beded Combined Hospital Sirauli","timestamp":"2020-11-25T06:30:11.566Z"}
+{"level":"info","message":"[OUNOTMAP- 99929072 ]  Org Unit Not Mapped \t facility name is: Pratapgarh - District Hospital","timestamp":"2020-11-25T06:30:11.566Z"}
+{"level":"info","message":"[OUNOTMAP- 99929073 ]  Org Unit Not Mapped \t facility name is: Sonbhadra - District Combined Hospital","timestamp":"2020-11-25T06:30:11.566Z"}
+{"level":"info","message":"[OUNOTMAP- 99929074 ]  Org Unit Not Mapped \t facility name is: Etawah - Dr. B.R.Ambedkar Combined Hospital","timestamp":"2020-11-25T06:30:11.566Z"}
+{"level":"info","message":"[OUNOTMAP- 99929075 ]  Org Unit Not Mapped \t facility name is: Mau - District Combined Hospital","timestamp":"2020-11-25T06:30:11.567Z"}
+{"level":"info","message":"[OUNOTMAP- 99929076 ]  Org Unit Not Mapped \t facility name is: Kasganj - District Hospital","timestamp":"2020-11-25T06:30:11.567Z"}
+{"level":"info","message":"[OUNOTMAP- 99929077 ]  Org Unit Not Mapped \t facility name is: Lucknow - Sachivalay dispensary","timestamp":"2020-11-25T06:30:11.567Z"}
+{"level":"info","message":"[OUNOTMAP- 99929078 ]  Org Unit Not Mapped \t facility name is: Mirzapur - District Hospital","timestamp":"2020-11-25T06:30:11.567Z"}
+{"level":"info","message":"[OUNOTMAP- 99929515 ]  Org Unit Not Mapped \t facility name is: Kannauj -100 beded District Comb Hosp. Chhibramau","timestamp":"2020-11-25T06:30:11.567Z"}
+{"level":"info","message":"[OUNOTMAP- 99930457 ]  Org Unit Not Mapped \t facility name is: Lucknow - K.E. Hospital","timestamp":"2020-11-25T06:30:11.567Z"}
+{"level":"info","message":"[OUNOTMAP- 99930805 ]  Org Unit Not Mapped \t facility name is: Bulandshahr - SSMJ Hospital Khurja","timestamp":"2020-11-25T06:30:11.567Z"}
+{"level":"info","message":"[OUNOTMAP- 99932022 ]  Org Unit Not Mapped \t facility name is: Azamgarh - 100 bedded DCH Atraulia","timestamp":"2020-11-25T06:30:11.567Z"}
+{"level":"info","message":"[OUNOTMAP- 99932117 ]  Org Unit Not Mapped \t facility name is: Lucknow - High Court Dispensary","timestamp":"2020-11-25T06:30:11.567Z"}
+{"level":"info","message":"[OUNOTMAP- 99932603 ]  Org Unit Not Mapped \t facility name is: Aligarh - 100 Beded DCH Atrauli","timestamp":"2020-11-25T06:30:11.567Z"}
+{"level":"info","message":"SUCCESS {\"imported\":0,\"updated\":0,\"ignored\":0,\"deleted\":0}","timestamp":"2020-11-25T06:30:11.888Z"}
+{"level":"info","message":"No Portal specified ","timestamp":"2020-11-25T06:56:08.932Z"}
+{"level":"info","message":"Starting service","timestamp":"2020-11-25T06:56:08.934Z"}
+{"level":"info","message":"No Portal specified ","timestamp":"2020-11-25T07:23:04.046Z"}
+{"level":"info","message":"Starting service","timestamp":"2020-11-25T07:23:04.047Z"}
+{"level":"info","message":"No Portal specified ","timestamp":"2020-11-25T07:23:56.191Z"}
+{"level":"info","message":"Starting service","timestamp":"2020-11-25T07:23:56.192Z"}

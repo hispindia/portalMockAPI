@@ -2,10 +2,34 @@ var constant=require("./CONSTANTS");
 var express = require('express');
 var forwarder = require('./forwarder');
 var hausala = require('./hausala');
+var bcpm = require('./bcpm');
+var dvdms = require('./dvdms');
 
+var cron = require('node-cron');
 
 var argv = require('yargs').argv;
+var rootCas = require('ssl-root-cas/latest').create();
+require('https').globalAgent.options.ca = rootCas;
 
+cron.schedule("0 0 11 30 * *", function() {
+    new hausala();
+});
+cron.schedule("0 0 15 30 * *", function() {
+    new bcpm();
+});
+cron.schedule("0 0 12 30 * *", function() {
+    new dvdms();
+});
+/*
+     * * * * * *
+     | | | | | |
+     | | | | | day of week
+     | | | | month
+     | | | day of month
+     | | hour
+     | minute
+     second ( optional )
+ */
 
 //var rootCas = require('ssl-root-cas/latest').create();
 //require('https').globalAgent.options.ca = rootCas;
@@ -63,7 +87,8 @@ function getForword() {
 
         __logger.info("Server listening at https://%s:%s", host, port);
 
-    })
+    });
+}
 // Open API
 function getDashboard(){
     app.get('/portalAPI/*', function(req, res){
@@ -78,4 +103,16 @@ function getDashboard(){
 
     })
 }
+
+switch(argv.portal){
+    case 'hausala' : new hausala();
+        break;
+    case 'bcpm' : new bcpm();
+        break;
+    case 'dvdms' : new dvdms();
+        break;
+    default : __logger.info("No Portal specified ");
+        break;
+}
+
 __logger.info("Starting service");

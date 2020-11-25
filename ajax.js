@@ -45,6 +45,25 @@ exports.getReq = function(url,auth,callback) {
 
     });
 }
+exports.getDVDMSReq = function(url,callback) {
+
+    var options = { method: 'GET',
+        url: url,
+        'rejectUnauthorized': false,
+        headers:
+            {
+                'cache-control': 'no-cache',
+                'serviceid': '102',
+                'authorization': 'Basic dXBfZHZkbXM6VVBfZHZkbSQ=' }
+         };
+
+    request(options, function (error, response, body) {
+        if (error) throw new Error(error);
+
+        callback(error,response,body);
+    });
+
+}
 
 exports.getReqWithoutAuth = function(url,callback){
     request({
@@ -65,15 +84,16 @@ exports.postReqWithoutAuth = function(url,pbody,callback){
         callback(error,response,body);
     });
 }
-exports.postReqWithAuth = function(url,auth,pbody,callback) {
+exports.postReqWithAuth = function(url,callback) {
     request({
+        'rejectUnauthorized': false,
         url: url,
-        formData: pbody,
+        data : '{"primaryKeys": [99920703]}',
         method: "POST",
-        json: true,   // <--Very important!!!
         headers: {
-            "authorization": auth,
-            "content-Type": "application/json",
+            'authorization': "Basic dXBfZHZkbXM6VVBfZHZkbSQ=",
+            'content-type': "text/plain",
+            'cache-control': "no-cache"
         }
     }, function (error, response, body) {
         callback(error,response,body);
