@@ -90,7 +90,7 @@ function getForword() {
     });
 }
 // Open API
-function getDashboard(){
+
     app.get('/portalAPI/*', function(req, res){
         var name = req.query.name
         var tei =req.query.tei
@@ -102,7 +102,7 @@ function getDashboard(){
         });
 
     })
-}
+
 
 switch(argv.portal){
     case 'hausala' : new hausala();
