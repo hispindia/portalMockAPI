@@ -1,9 +1,9 @@
 exports.DHIS_URL_BASE = "https://uphmis.in/uphmis";
 
-exports.username = "dashboard";
-exports.password = "!Dashboard@54321";
-exports.dvdms_user = "UP_dvdm$";
-exports.dvdms_pass = "UP_dvdm$";
+exports.username = "";
+exports.password = "";
+exports.dvdms_user = "";
+exports.dvdms_pass = "";
 
 exports.auth = "Basic " + new Buffer(exports.username + ":" + exports.password).toString("base64");
 exports.dvdms_auth = "Basic " + new Buffer(exports.dvdms_user + ":" + exports.dvdms_pass).toString("base64");
