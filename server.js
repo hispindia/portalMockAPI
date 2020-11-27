@@ -78,9 +78,6 @@ filename: './logs/server.log',
     ]
 });
 
-
-function getForword() {
-
     var server = app.listen(8000, function () {
         var host = server.address().address
         var port = server.address().port
@@ -88,10 +85,11 @@ function getForword() {
         __logger.info("Server listening at https://%s:%s", host, port);
 
     });
-}
+
 // Open API
 
     app.get('/portalAPI/*', function(req, res){
+        __logger.info("Server listening portalAPI--");
         var name = req.query.name
         var tei =req.query.tei
         var ou = req.query.ou;
